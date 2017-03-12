@@ -43,4 +43,3 @@ I earned my Ph.D. degree from C.S. Dept. at Harbin Institute of Technology (HIT)
 - Lemao Liu, Tiejun Zhao, Taro Watanabe, Hailong Cao, Conghui Zhu. Expected Error Rate Minimization based on Ultraconservative Updata for SMT. In Proceedings of COLING 2012. [[paper](http://www.aclweb.org/anthology/C12-2071)]
 
 - Lemao Liu, Tiejun Zhao, Hailong Cao, Conghui Zhu, Chunyue Zhang. Hierarchical partition model based on markov random fields for hierarchical phrase-based machine translation. In Journal of Software 2012. [[paper](http://www.jos.org.cn/ch/reader/create_pdf.aspx?file_no=4207)] [Chinese version]
-
