@@ -44,28 +44,3 @@ I earned my Ph.D. degree from C.S. Dept. at Harbin Institute of Technology (HIT)
 
 - Lemao Liu, Tiejun Zhao, Hailong Cao, Conghui Zhu, Chunyue Zhang. Hierarchical partition model based on markov random fields for hierarchical phrase-based machine translation. In Journal of Software 2012. [[paper](http://www.jos.org.cn/ch/reader/create_pdf.aspx?file_no=4207)] [Chinese version]
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
