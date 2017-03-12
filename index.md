@@ -14,11 +14,11 @@ I earned my Ph.D. degree from C.S. Dept. at Harbin Institute of Technology (HIT)
 
 ### Selected Publications
 
-- Chunpeng Ma, Lemao Liu, Akihiro Tamura, Tiejun Zhao, Eiichiro Sumita. Deterministic Attention for Sequence-to-Sequence Constituent Parsing. In Proceedings of AAAI 2017. [pdf](https://guides.github.com/features/mastering-markdown/)
+- Chunpeng Ma, Lemao Liu, Akihiro Tamura, Tiejun Zhao, Eiichiro Sumita. Deterministic Attention for Sequence-to-Sequence Constituent Parsing. In Proceedings of AAAI 2017. [[paper](https://guides.github.com/features/mastering-markdown/)]
 
-- Kehai Chen, Tiejun Zhao, Muyun Yang, Lemao Liu. Translation Prediction with Source Dependency-Based Context Representation. In Proceedings of AAAI 2017. [pdf](https://guides.github.com/features/mastering-markdown/)
+- Kehai Chen, Tiejun Zhao, Muyun Yang, Lemao Liu. Translation Prediction with Source Dependency-Based Context Representation. In Proceedings of AAAI 2017. [paper](https://guides.github.com/features/mastering-markdown/)
 
-- Lemao Liu, Masao Utiyama, Andrew Finch, Eiichiro Sumita. Neural Machine Translation with Supervised Attention. In Proceedings of COLING 2016. [pdf](https://guides.github.com/features/mastering-markdown/)
+- Lemao Liu, Masao Utiyama, Andrew Finch, Eiichiro Sumita. Neural Machine Translation with Supervised Attention. In Proceedings of COLING 2016. [paper](https://guides.github.com/features/mastering-markdown/)
 
 - Lemao Liu, Masao Utiyama, Andrew Finch, Eiichiro Sumita. Agreement on Target-bidirectional Neural Machine Translation. In Proceedings of NAACL 2016. [pdf](https://guides.github.com/features/mastering-markdown/)
 
