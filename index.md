@@ -29,12 +29,6 @@ I earned my Ph.D. degree from C.S. Dept. at Harbin Institute of Technology (HIT)
 
 - Lemao Liu, Tiejun Zhao, Taro Watanabe, Hailong Cao, Conghui Zhu. Discriminative Training for Log-Linear Based SMT: Global or Local Methods. In Journal of ACM Trans. on Asian Lang. Inform. Proc. 2014. [[paper](http://dl.acm.org/citation.cfm?id=2637478)]
 
-
-### Supervising and Collaborating
-
-- Interns: Chunpeng Ma (2015-2016), Kehai Chen (2017)
-- Colleagues: Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, and Peng Shen.
-
 - Lemao Liu. Research on Discriminative Training Methods for Statistical Machine Translation. Ph.d Thesis at Harbin Inst. of Tech, 2013. [[paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxsZW1hb2xpdXxneDo3NTgwYTE5NzhhMjVlOTZh)] [Chinese version]
 
 - Lemao Liu, Taro Watanabe, Eiichiro Sumita, Tiejun Zhao. Additive Neural Networks for Statistical Machine Translation. In Proceedings of ACL 2013. [[paper](http://www.aclweb.org/anthology/P13-1078)]
@@ -46,3 +40,9 @@ I earned my Ph.D. degree from C.S. Dept. at Harbin Institute of Technology (HIT)
 - Lemao Liu, Tiejun Zhao, Taro Watanabe, Hailong Cao, Conghui Zhu. Expected Error Rate Minimization based on Ultraconservative Updata for SMT. In Proceedings of COLING 2012. [[paper](http://www.aclweb.org/anthology/C12-2071)]
 
 - Lemao Liu, Tiejun Zhao, Hailong Cao, Conghui Zhu, Chunyue Zhang. Hierarchical partition model based on markov random fields for hierarchical phrase-based machine translation. In Journal of Software 2012. [[paper](http://www.jos.org.cn/ch/reader/create_pdf.aspx?file_no=4207)] [Chinese version]
+
+### Supervising and Collaborating
+
+- Interns: Chunpeng Ma (2015-2016), Kehai Chen (2017)
+- Colleagues: Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, and Peng Shen.
+
