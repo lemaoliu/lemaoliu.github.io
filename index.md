@@ -4,7 +4,7 @@ My name is Lemao Liu. I am currently a researcher at NICT, Japan, working on nat
 
 ### More about me
 
-I earned my Ph.D. degree from C.S. Dept. at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions from Prof. Tiejun Zhao at HIT and Dr. Taro Watanabe at NICT. After that, I was a postdoc researcher at the City University of New York, working with Prof. Liang Huang. 
+I earned my Ph.D. degree from C.S. Dept. at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions of Prof. Tiejun Zhao at HIT and Dr. Taro Watanabe at NICT. After that, I was a postdoc researcher at the City University of New York, working with Prof. Liang Huang. 
 
 ### Supervising and Collaborating
 
