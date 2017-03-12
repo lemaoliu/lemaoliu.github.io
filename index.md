@@ -2,6 +2,7 @@
 
 ### Contact
 National Institute of Information and Communications Technology, Kyoto, Japan
+
 lemaoliu@gmail.com
 
 ### Markdown
