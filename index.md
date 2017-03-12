@@ -6,10 +6,7 @@ My name is Lemao Liu. I am currently a researcher at NICT, Japan, working on mac
 
 I earned my Ph.D. degree from C.S. Dept. at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions of Prof. Tiejun Zhao at HIT and Dr. Taro Watanabe at NICT. After that, I was a postdoc researcher at the City University of New York, working with Prof. Liang Huang. 
 
-### Supervising and Collaborating
 
-- Interns: Chunpeng Ma (2015-2016), Kehai Chen (2017)
-- Colleagues: Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, and Peng Shen.
 
 
 ### Selected Publications
@@ -31,6 +28,12 @@ I earned my Ph.D. degree from C.S. Dept. at Harbin Institute of Technology (HIT)
 - Lemao Liu, Liang Huang. Search-aware Tuning for Machine Translation. In Proceedings of EMNLP 2014. [[paper](http://aclweb.org/anthology/D/D14/D14-1209.pdf)]
 
 - Lemao Liu, Tiejun Zhao, Taro Watanabe, Hailong Cao, Conghui Zhu. Discriminative Training for Log-Linear Based SMT: Global or Local Methods. In Journal of ACM Trans. on Asian Lang. Inform. Proc. 2014. [[paper](http://dl.acm.org/citation.cfm?id=2637478)]
+
+
+### Supervising and Collaborating
+
+- Interns: Chunpeng Ma (2015-2016), Kehai Chen (2017)
+- Colleagues: Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, and Peng Shen.
 
 - Lemao Liu. Research on Discriminative Training Methods for Statistical Machine Translation. Ph.d Thesis at Harbin Inst. of Tech, 2013. [[paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxsZW1hb2xpdXxneDo3NTgwYTE5NzhhMjVlOTZh)] [Chinese version]
 
