@@ -16,29 +16,29 @@ I earned my Ph.D. degree from C.S. Dept. at Harbin Institute of Technology (HIT)
 
 - Chunpeng Ma, Lemao Liu, Akihiro Tamura, Tiejun Zhao, Eiichiro Sumita. Deterministic Attention for Sequence-to-Sequence Constituent Parsing. In Proceedings of AAAI 2017. [[paper](https://guides.github.com/features/mastering-markdown/)]
 
-- Kehai Chen, Tiejun Zhao, Muyun Yang, Lemao Liu. Translation Prediction with Source Dependency-Based Context Representation. In Proceedings of AAAI 2017. [paper](https://guides.github.com/features/mastering-markdown/)
+- Kehai Chen, Tiejun Zhao, Muyun Yang, Lemao Liu. Translation Prediction with Source Dependency-Based Context Representation. In Proceedings of AAAI 2017. [[paper](https://guides.github.com/features/mastering-markdown/)]
 
-- Lemao Liu, Masao Utiyama, Andrew Finch, Eiichiro Sumita. Neural Machine Translation with Supervised Attention. In Proceedings of COLING 2016. [paper](https://guides.github.com/features/mastering-markdown/)
+- Lemao Liu, Masao Utiyama, Andrew Finch, Eiichiro Sumita. Neural Machine Translation with Supervised Attention. In Proceedings of COLING 2016. [[paper](http://aclweb.org/anthology/C/C16/C16-1291.pdf)]
 
-- Lemao Liu, Masao Utiyama, Andrew Finch, Eiichiro Sumita. Agreement on Target-bidirectional Neural Machine Translation. In Proceedings of NAACL 2016. [pdf](https://guides.github.com/features/mastering-markdown/)
+- Lemao Liu, Masao Utiyama, Andrew Finch, Eiichiro Sumita. Agreement on Target-bidirectional Neural Machine Translation. In Proceedings of NAACL 2016. [[paper](http://www.aclweb.org/anthology/N16-1046)]
 
-- Peng Shen, Xugang Lu, Lemao Liu, Hisashi Kawai. Local Fisher Discriminant Analysis for Spoken Language Identification. In Proceedings of ICASSP 2016. [pdf](https://guides.github.com/features/mastering-markdown/)
+- Peng Shen, Xugang Lu, Lemao Liu, Hisashi Kawai. Local Fisher Discriminant Analysis for Spoken Language Identification. In Proceedings of ICASSP 2016. [[paper](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7472794)]
 
-- Lemao Liu, Andrew Finch, Masao Utiyama, Eiichiro Sumita. Agreement on Target-bidirectional LSTMs for Sequence-to- Sequence Learning. In Proceedings of AAAI 2016. [pdf](https://guides.github.com/features/mastering-markdown/)
+- Lemao Liu, Andrew Finch, Masao Utiyama, Eiichiro Sumita. Agreement on Target-bidirectional LSTMs for Sequence-to- Sequence Learning. In Proceedings of AAAI 2016. [[paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12028)]
 
-- Andrew Finch, Lemao Liu, Xiaolin Wang, Eiichiro Sumita (2015). Neural Network Transduction Models in Transliteration Generation. In Proceedings of ACL Workshops on NEWS 2015. [pdf](https://guides.github.com/features/mastering-markdown/)
+- Andrew Finch, Lemao Liu, Xiaolin Wang, Eiichiro Sumita (2015). Neural Network Transduction Models in Transliteration Generation. In Proceedings of ACL Workshops on NEWS 2015. [[paper](http://www.aclweb.org/anthology/W15-3909)]
 
-- Lemao Liu, Liang Huang. Search-aware Tuning for Machine Translation. In Proceedings of EMNLP 2014. [pdf](https://guides.github.com/features/mastering-markdown/)
+- Lemao Liu, Liang Huang. Search-aware Tuning for Machine Translation. In Proceedings of EMNLP 2014. [[paper](http://aclweb.org/anthology/D/D14/D14-1209.pdf)]
 
-- Lemao Liu, Tiejun Zhao, Taro Watanabe, Hailong Cao, Conghui Zhu. Discriminative Training for Log-Linear Based SMT: Global or Local Methods. In Journal of ACM Trans. on Asian Lang. Inform. Proc. 2014. [pdf](https://guides.github.com/features/mastering-markdown/)
+- Lemao Liu, Tiejun Zhao, Taro Watanabe, Hailong Cao, Conghui Zhu. Discriminative Training for Log-Linear Based SMT: Global or Local Methods. In Journal of ACM Trans. on Asian Lang. Inform. Proc. 2014. [[paper](http://dl.acm.org/citation.cfm?id=2637478)]
 
-- Lemao Liu, Taro Watanabe, Eiichiro Sumita, Tiejun Zhao. Additive Neural Networks for Statistical Machine Translation. In Proceedings of ACL 2013. [pdf](https://guides.github.com/features/mastering-markdown/)
+- Lemao Liu, Taro Watanabe, Eiichiro Sumita, Tiejun Zhao. Additive Neural Networks for Statistical Machine Translation. In Proceedings of ACL 2013. [[paper](http://www.aclweb.org/anthology/P13-1078)]
 
-- Lemao Liu, Tiejun Zhao, Taro Watanabe, Eiichiro Sumita. Tuning SMT with A Large Number of Features via Online Feature Grouping. In Proceedings of IJCNLP 2013. 
+- Lemao Liu, Tiejun Zhao, Taro Watanabe, Eiichiro Sumita. Tuning SMT with A Large Number of Features via Online Feature Grouping. In Proceedings of IJCNLP 2013. [[paper](http://www.aclweb.org/anthology/I13-1032)]
 
-- Lemao Liu, Hailong Cao, Taro Watanabe, Tiejun Zhao, Mo Yu, Conghui Zhu. Locally Training the Log-linear Model for SMT. In Proceedings of EMNLP-CoNLL 2012.
+- Lemao Liu, Hailong Cao, Taro Watanabe, Tiejun Zhao, Mo Yu, Conghui Zhu. Locally Training the Log-linear Model for SMT. In Proceedings of EMNLP-CoNLL 2012. [[paper](http://www.aclweb.org/anthology/D12-1037)]
 
-- Lemao Liu, Tiejun Zhao, Taro Watanabe, Hailong Cao, Conghui Zhu. Expected Error Rate Minimization based on Ultraconservative Updata for SMT. In Proceedings of COLING 2012.
+- Lemao Liu, Tiejun Zhao, Taro Watanabe, Hailong Cao, Conghui Zhu. Expected Error Rate Minimization based on Ultraconservative Updata for SMT. In Proceedings of COLING 2012. [[paper](http://www.aclweb.org/anthology/C12-2071)]
 
 ### Markdown
 
