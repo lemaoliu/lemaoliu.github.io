@@ -6,6 +6,12 @@ My name is Lemao Liu. I am currently a researcher at NICT, Japan, working on nat
 
 I earned my Ph.D. degree from C.S. Dept. at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions from Prof. Tiejun Zhao at HIT and Dr. Taro Watanabe at NICT. Before that, I was a postdoc researcher at the City University of New York, working with Prof. Liang Huang.  
 
+### Supervising and Collaborating
+
+- Interns: Chunpeng Ma (2015-2016), Kehai Chen (2017)
+- Colleagues: Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, and Peng Shen.
+
+
 ### Selected Publications
 
 - Chunpeng Ma, Lemao Liu, Akihiro Tamura, Tiejun Zhao, Eiichiro Sumita. Deterministic Attention for Sequence-to-Sequence Constituent Parsing. In Proceedings of AAAI 2017.
