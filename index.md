@@ -43,6 +43,6 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 
 ### Supervising and Collaborating
 
-- Interns: Chunpeng Ma (2015-2016), Kehai Chen (2017)
+- Interns: Chunpeng Ma (2015-2016), and Kehai Chen (2017)
 - Colleagues: Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, and Peng Shen.
 
