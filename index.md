@@ -1,6 +1,6 @@
 ## Welcome to Lemao's Homepage
 
-My name is Lemao Liu. I am currently a researcher at NICT, Japan, working on natural language processing, parsing, machine translation and their related areas. You can reach me through lemaoliu@gmail.com.
+My name is Lemao Liu. I am currently a researcher at NICT, Japan, working on machine translation, parsing, natural language processing and their related areas. You can reach me through lemaoliu@gmail.com.
 
 ### More about me
 
