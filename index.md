@@ -11,9 +11,9 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 
 ### Selected Publications
 
-- Chunpeng Ma, Lemao Liu, Akihiro Tamura, Tiejun Zhao, Eiichiro Sumita. Deterministic Attention for Sequence-to-Sequence Constituent Parsing. In Proceedings of AAAI 2017. [[paper](https://guides.github.com/features/mastering-markdown/)]
+- Chunpeng Ma, Lemao Liu, Akihiro Tamura, Tiejun Zhao, Eiichiro Sumita. Deterministic Attention for Sequence-to-Sequence Constituent Parsing. In Proceedings of AAAI 2017. [[paper](http://www.aaai.org/Conferences/AAAI/2017/aaai17program.pdf)]
 
-- Kehai Chen, Tiejun Zhao, Muyun Yang, Lemao Liu. Translation Prediction with Source Dependency-Based Context Representation. In Proceedings of AAAI 2017. [[paper](https://guides.github.com/features/mastering-markdown/)]
+- Kehai Chen, Tiejun Zhao, Muyun Yang, Lemao Liu. Translation Prediction with Source Dependency-Based Context Representation. In Proceedings of AAAI 2017. [[paper](http://www.aaai.org/Conferences/AAAI/2017/aaai17program.pdf)]
 
 - Lemao Liu, Masao Utiyama, Andrew Finch, Eiichiro Sumita. Neural Machine Translation with Supervised Attention. In Proceedings of COLING 2016. [[paper](http://aclweb.org/anthology/C/C16/C16-1291.pdf)]
 
