@@ -1,9 +1,10 @@
 ## Welcome to Lemao's Homepage
 
-### Contact
-National Institute of Information and Communications Technology, Kyoto, Japan
+My name is Lemao Liu. I am currently a researcher at NICT, Japan, mainly working on statistical machine translation and its related areas. You can reach me through lemaoliu@gmail.com.
 
-lemaoliu@gmail.com
+### About me
+
+I earned my Ph.D. degree from C.S. Dept. at Harbin Institute of Technology (HIT), under the instructions from Prof. Tiejun Zhao at HIT and Dr. Taro Watanabe at NICT. Before that, I was a postdoc researcher at the City University of New York, working with Prof. Liang Huang. 
 
 ### Markdown
 
