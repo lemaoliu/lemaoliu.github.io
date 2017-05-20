@@ -1,10 +1,10 @@
 ## Welcome to Lemao's Homepage
 
-My name is Lemao Liu. I am currently a researcher at NICT, Japan, working on machine translation, parsing, natural language processing and their related topics. You can reach me through fullname at gmail dot com (fullname=lemaoliu).
+My name is Lemao Liu. I am currently a researcher at Tencent AI Lab, working on machine translation, parsing, natural language processing and their related topics. You can reach me through NAME at gmail dot com (NAME=lemaoliu).
 
 ### More about me
 
-I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near Poyang Lake, the largest freshwater lake in China. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions of Prof. Tiejun Zhao at HIT and Dr. Taro Watanabe at NICT. After that, I was a postdoc researcher at the City University of New York, working with Prof. Liang Huang. 
+I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near Poyang Lake, the largest freshwater lake in China. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions of Prof. Tiejun Zhao at HIT and Dr. Taro Watanabe at NICT. After that, I was a postdoc researcher at the City University of New York, working with Prof. Liang Huang; and then I was a researcher at NICT Japan between Sept. 2014 and March 2017. 
 
 
 
