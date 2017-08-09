@@ -17,7 +17,7 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 
 - Kehai Chen, Rui Wang, Masao Utiyama, Lemao Liu, Akihiro Tamura, Eiichiro Sumita and Tiejun Zhao. Neural Machine Translation with Source Dependency Representation. In Proceedings of EMNLP 2017. [to appear]
 
-- Lemao Liu, Atsushi Fujita, Masao Utiyama, Andrew Finch and Eiichiro Sumita. Translation Quality Estimation Using Only Bilingual Corpora. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2017. 
+- Lemao Liu, Atsushi Fujita, Masao Utiyama, Andrew Finch and Eiichiro Sumita. Translation Quality Estimation Using Only Bilingual Corpora. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2017. [[paper](http://ieeexplore.ieee.org/abstract/document/7949019/)]
 
 - Chunpeng Ma, Lemao Liu, Akihiro Tamura, Tiejun Zhao, Eiichiro Sumita. Deterministic Attention for Sequence-to-Sequence Constituent Parsing. In Proceedings of AAAI 2017. [[paper](http://www.aaai.org/Conferences/AAAI/2017/aaai17program.pdf)]
 
