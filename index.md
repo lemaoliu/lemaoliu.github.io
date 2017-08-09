@@ -11,6 +11,14 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 
 ### Selected Publications
 
+
+
+- Rui Wang, Masao Utiyama, Lemao Liu, Kehai Chen and Eiichiro Sumita. Instance Weighting for Neural Machine Translation Domain Adaptation. In Proceedings of EMNLP 2017. [to appear]
+
+- Kehai Chen, Rui Wang, Masao Utiyama, Lemao Liu, Akihiro Tamura, Eiichiro Sumita and Tiejun Zhao. Neural Machine Translation with Source Dependency Representation. In Proceedings of EMNLP 2017. [to appear]
+
+- Lemao Liu, Atsushi Fujita, Masao Utiyama, Andrew Finch and Eiichiro Sumita. Translation Quality Estimation Using Only Bilingual Corpora. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2017. 
+
 - Chunpeng Ma, Lemao Liu, Akihiro Tamura, Tiejun Zhao, Eiichiro Sumita. Deterministic Attention for Sequence-to-Sequence Constituent Parsing. In Proceedings of AAAI 2017. [[paper](http://www.aaai.org/Conferences/AAAI/2017/aaai17program.pdf)]
 
 - Kehai Chen, Tiejun Zhao, Muyun Yang, Lemao Liu. Translation Prediction with Source Dependency-Based Context Representation. In Proceedings of AAAI 2017. [[paper](http://www.aaai.org/Conferences/AAAI/2017/aaai17program.pdf)]
@@ -21,7 +29,7 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 
 - Peng Shen, Xugang Lu, Lemao Liu, Hisashi Kawai. Local Fisher Discriminant Analysis for Spoken Language Identification. In Proceedings of ICASSP 2016. [[paper](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7472794)]
 
-- Lemao Liu, Andrew Finch, Masao Utiyama, Eiichiro Sumita. Agreement on Target-bidirectional LSTMs for Sequence-to- Sequence Learning. In Proceedings of AAAI 2016. [[paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12028)]
+- Lemao Liu, Andrew Finch, Masao Utiyama, Eiichiro Sumita. Agreement on Target-bidirectional LSTMs for Sequence-to-Sequence Learning. In Proceedings of AAAI 2016. [[paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12028)]
 
 - Andrew Finch, Lemao Liu, Xiaolin Wang, Eiichiro Sumita (2015). Neural Network Transduction Models in Transliteration Generation. In Proceedings of ACL Workshops on NEWS 2015. [[paper](http://www.aclweb.org/anthology/W15-3909)]
 
