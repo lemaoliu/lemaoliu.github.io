@@ -17,9 +17,9 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 
 - Kehai Chen, Tiejun Zhao, Muyun Yang, Lemao Liu, Akihiro Tamura, Rui Wang, Masao Utiyama and Eiichiro Sumita. A Neural Approach to Source Dependency-based Context Model for Statistic Machine Translation. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2018. [to appear]  
 
-- Rui Wang, Masao Utiyama, Lemao Liu, Kehai Chen and Eiichiro Sumita. Instance Weighting for Neural Machine Translation Domain Adaptation. In Proceedings of EMNLP 2017. [to appear]
+- Rui Wang, Masao Utiyama, Lemao Liu, Kehai Chen and Eiichiro Sumita. Instance Weighting for Neural Machine Translation Domain Adaptation. In Proceedings of EMNLP 2017.
 
-- Kehai Chen, Rui Wang, Masao Utiyama, Lemao Liu, Akihiro Tamura, Eiichiro Sumita and Tiejun Zhao. Neural Machine Translation with Source Dependency Representation. In Proceedings of EMNLP 2017. [to appear]
+- Kehai Chen, Rui Wang, Masao Utiyama, Lemao Liu, Akihiro Tamura, Eiichiro Sumita and Tiejun Zhao. Neural Machine Translation with Source Dependency Representation. In Proceedings of EMNLP 2017. 
 
 - Lemao Liu, Atsushi Fujita, Masao Utiyama, Andrew Finch and Eiichiro Sumita. Translation Quality Estimation Using Only Bilingual Corpora. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2017. [[paper](http://ieeexplore.ieee.org/abstract/document/7949019/)]
 
