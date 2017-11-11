@@ -11,7 +11,11 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 
 ### Selected Publications
 
+- Lemao Liu, Muhua Zhu and Shuming Shi. Improving Sequence-to-Sequence Constituency Parsing. Proceedings of AAAI 2018. [Accepted] 
 
+- Lemao Liu, Andrew Finch, Masao Utiyama and Eiichiro Sumita. Agreement on Target-bidirectional Recurrent Neural Networks for Sequence-to-Sequence Learning. In Journal of Artificial Intelligence Research, 2018. [Accepted] 
+
+- Kehai Chen, Tiejun Zhao, Muyun Yang, Lemao Liu, Akihiro Tamura, Rui Wang, Masao Utiyama and Eiichiro Sumita. A Neural Approach to Source Dependency-based Context Model for Statistic Machine Translation. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2018. [to appear]  
 
 - Rui Wang, Masao Utiyama, Lemao Liu, Kehai Chen and Eiichiro Sumita. Instance Weighting for Neural Machine Translation Domain Adaptation. In Proceedings of EMNLP 2017. [to appear]
 
