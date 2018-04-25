@@ -29,7 +29,7 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 
 - Lemao Liu, Masao Utiyama, Andrew Finch, Eiichiro Sumita. Neural Machine Translation with Supervised Attention. In Proceedings of COLING 2016. [[paper](http://aclweb.org/anthology/C/C16/C16-1291.pdf)]
 
-- Lemao Liu, Masao Utiyama, Andrew Finch, Eiichiro Sumita. Agreement on Target-bidirectional Neural Machine Translation. In Proceedings of NAACL 2016. [[paper](http://www.aclweb.org/anthology/N16-1046)]
+- Lemao Liu, Masao Utiyama, Andrew Finch, Eiichiro Sumita. Agreement on Target-bidirectional Neural Machine Translation. In Proceedings of NAACL 2016 (short). [[paper](http://www.aclweb.org/anthology/N16-1046)]
 
 - Peng Shen, Xugang Lu, Lemao Liu, Hisashi Kawai. Local Fisher Discriminant Analysis for Spoken Language Identification. In Proceedings of ICASSP 2016. [[paper](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7472794)]
 
