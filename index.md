@@ -11,13 +11,17 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 
 ### Selected Publications
 
-- Lemao Liu, Muhua Zhu and Shuming Shi. Improving Sequence-to-Sequence Constituency Parsing. Proceedings of AAAI 2018. [Accepted] 
+- Lianhui Qin, Lemao Liu, Victorial Bi, Yan Wang, Xiaojiang Liu, Zhiting Hu, Hai Zhao, Shuming Shi. Automatic Article Commenting: the Task and Dataset. Proceedings of ACL 2018. (short) [to appear]
+
+- Xintong Li, Lemao Liu, Zhaopeng Tu, Max Meng and Shuming Shi. Target foresight based attention for neural machine translation. Proceedings of NAACL 2018. [to appear]
+
+- Lemao Liu, Muhua Zhu and Shuming Shi. Improving Sequence-to-Sequence Constituency Parsing. Proceedings of AAAI 2018. 
 
 - Lemao Liu, Andrew Finch, Masao Utiyama and Eiichiro Sumita. Agreement on Target-bidirectional Recurrent Neural Networks for Sequence-to-Sequence Learning. In Journal of Artificial Intelligence Research, 2018. [Accepted] 
 
-- Kehai Chen, Tiejun Zhao, Muyun Yang, Lemao Liu, Akihiro Tamura, Rui Wang, Masao Utiyama and Eiichiro Sumita. A Neural Approach to Source Dependency-based Context Model for Statistic Machine Translation. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2018. [to appear]  
+- Kehai Chen, Tiejun Zhao, Muyun Yang, Lemao Liu, Akihiro Tamura, Rui Wang, Masao Utiyama and Eiichiro Sumita. A Neural Approach to Source Dependency-based Context Model for Statistic Machine Translation. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2018. (short) 
 
-- Rui Wang, Masao Utiyama, Lemao Liu, Kehai Chen and Eiichiro Sumita. Instance Weighting for Neural Machine Translation Domain Adaptation. In Proceedings of EMNLP 2017.
+- Rui Wang, Masao Utiyama, Lemao Liu, Kehai Chen and Eiichiro Sumita. Instance Weighting for Neural Machine Translation Domain Adaptation. In Proceedings of EMNLP 2017. (short)
 
 - Kehai Chen, Rui Wang, Masao Utiyama, Lemao Liu, Akihiro Tamura, Eiichiro Sumita and Tiejun Zhao. Neural Machine Translation with Source Dependency Representation. In Proceedings of EMNLP 2017. 
 
@@ -45,7 +49,7 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 
 - Lemao Liu, Taro Watanabe, Eiichiro Sumita, Tiejun Zhao. Additive Neural Networks for Statistical Machine Translation. In Proceedings of ACL 2013. [[paper](http://www.aclweb.org/anthology/P13-1078)]
 
-- Lemao Liu, Tiejun Zhao, Taro Watanabe, Eiichiro Sumita. Tuning SMT with A Large Number of Features via Online Feature Grouping. In Proceedings of IJCNLP 2013. [[paper](http://www.aclweb.org/anthology/I13-1032)]
+- Lemao Liu, Tiejun Zhao, Taro Watanabe, Eiichiro Sumita. Tuning SMT with A Large Number of Features via Online Feature Grouping. In Proceedings of IJCNLP 2013. (short) [[paper](http://www.aclweb.org/anthology/I13-1032)]
 
 - Lemao Liu, Hailong Cao, Taro Watanabe, Tiejun Zhao, Mo Yu, Conghui Zhu. Locally Training the Log-linear Model for SMT. In Proceedings of EMNLP-CoNLL 2012. [[paper](http://www.aclweb.org/anthology/D12-1037)]
 
