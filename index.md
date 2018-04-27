@@ -11,7 +11,7 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 
 ### Selected Publications
 
-- Lianhui Qin, Lemao Liu, Victoria Bi, Yan Wang, Xiaojiang Liu, Zhiting Hu, Hai Zhao, Shuming Shi. Automatic Article Commenting: the Task and Dataset. Proceedings of ACL 2018. (short) [to appear]
+- Lianhui Qin, Lemao Liu, Victoria Bi, Yan Wang, Xiaojiang Liu, Zhiting Hu, Hai Zhao and Shuming Shi. Automatic Article Commenting: the Task and Dataset. Proceedings of ACL 2018. (short) [to appear]
 
 - Xintong Li, Lemao Liu, Zhaopeng Tu, Max Meng and Shuming Shi. Target foresight based attention for neural machine translation. Proceedings of NAACL 2018. [to appear]
 
