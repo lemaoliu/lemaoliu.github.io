@@ -17,13 +17,13 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 
 - Lemao Liu, Muhua Zhu and Shuming Shi. Improving Sequence-to-Sequence Constituency Parsing. Proceedings of AAAI 2018. 
 
-- Lemao Liu, Andrew Finch, Masao Utiyama and Eiichiro Sumita. Agreement on Target-bidirectional Recurrent Neural Networks for Sequence-to-Sequence Learning. In Journal of Artificial Intelligence Research, 2018. [Accepted] 
+- Lemao Liu, Andrew Finch, Masao Utiyama and Eiichiro Sumita. Agreement on Target-bidirectional Recurrent Neural Networks for Sequence-to-Sequence Learning. In Journal of Artificial Intelligence Research, 2018. [to appear] 
 
-- Kehai Chen, Tiejun Zhao, Muyun Yang, Lemao Liu, Akihiro Tamura, Rui Wang, Masao Utiyama and Eiichiro Sumita. A Neural Approach to Source Dependency-based Context Model for Statistic Machine Translation. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2018. (short) 
+- Kehai Chen, Tiejun Zhao, Muyun Yang, Lemao Liu, Akihiro Tamura, Rui Wang, Masao Utiyama and Eiichiro Sumita. A Neural Approach to Source Dependency-based Context Model for Statistic Machine Translation. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2018. 
 
 - Rui Wang, Masao Utiyama, Lemao Liu, Kehai Chen and Eiichiro Sumita. Instance Weighting for Neural Machine Translation Domain Adaptation. In Proceedings of EMNLP 2017. (short)
 
-- Kehai Chen, Rui Wang, Masao Utiyama, Lemao Liu, Akihiro Tamura, Eiichiro Sumita and Tiejun Zhao. Neural Machine Translation with Source Dependency Representation. In Proceedings of EMNLP 2017. 
+- Kehai Chen, Rui Wang, Masao Utiyama, Lemao Liu, Akihiro Tamura, Eiichiro Sumita and Tiejun Zhao. Neural Machine Translation with Source Dependency Representation. In Proceedings of EMNLP 2017. (short) 
 
 - Lemao Liu, Atsushi Fujita, Masao Utiyama, Andrew Finch and Eiichiro Sumita. Translation Quality Estimation Using Only Bilingual Corpora. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2017. [[paper](http://ieeexplore.ieee.org/abstract/document/7949019/)]
 
