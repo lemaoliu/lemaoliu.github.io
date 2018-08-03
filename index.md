@@ -7,7 +7,8 @@ My name is Lemao Liu. I am currently a senior researcher at Tencent AI Lab, work
 I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near Poyang Lake, the largest freshwater lake in China. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions of Prof. Tiejun Zhao at HIT and Dr. Taro Watanabe at NICT. After that, I was a postdoc researcher at the City University of New York, working with Prof. Liang Huang; and then I was a researcher at NICT Japan between Sept. 2014 and March 2017. 
 
 
-
+### Opening Positions
+I have some intern positions available at NLP center, Tencent AI Lab. If you have any questions, welcome to drop me an email. 
 
 ### Selected Publications
 
