@@ -8,7 +8,7 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 
 
 ### Opening Positions
-I have some intern positions available at NLP center, Tencent AI Lab. If you have any questions, welcome to drop me an email. 
+I have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
 
 ### Selected Publications
 
