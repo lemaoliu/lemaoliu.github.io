@@ -61,6 +61,6 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 
 ### Supervising and Collaborating
 
-- Interns: Chunpeng Ma (2015-2016), Kehai Chen (2017), Lianhui Qin (June, 2017 - Sept, 2017), Xintong Li (July, 2017 - ), Guanlin Li (HIT, Dec, 2017 - ), Yu Liu (HIT, 2018 - ) and Mengzhou Xia (Fudan Univ., April, 2018 - Sept, 2018)
+- Interns: Chunpeng Ma (HIT, 2015-2016), Kehai Chen (HIT, 2017), Lianhui Qin (SHJT->UW, 07/2017 - 09/2017), Xintong Li (CUHK, 07/2017 - ), Guanlin Li (HIT, 12/2017 - ), Yu Liu (HIT, 04/2018 - ) and Mengzhou Xia (Fudan->CMU, 04/2018 - 08/2018)
 - Colleagues: Eiichiro Sumita, Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, Peng Shen.
 
