@@ -11,10 +11,11 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 I have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
 
 ### Selected Publications
+- Mengzhou Xia, Guoping Huang, Lemao Liu, Shuming Shi. Graph-based Translation Memory for Neural Machine Translation. Proceedings of AAAI 2019. [to appear].
 
-- Lianhui Qin, Lemao Liu, Victoria Bi, Yan Wang, Xiaojiang Liu, Zhiting Hu, Hai Zhao and Shuming Shi. Automatic Article Commenting: the Task and Dataset. Proceedings of ACL 2018. (short) [to appear]
+- Lianhui Qin, Lemao Liu, Victoria Bi, Yan Wang, Xiaojiang Liu, Zhiting Hu, Hai Zhao and Shuming Shi. Automatic Article Commenting: the Task and Dataset. Proceedings of ACL 2018. (short)
 
-- Xintong Li, Lemao Liu, Zhaopeng Tu, Max Meng and Shuming Shi. Target foresight based attention for neural machine translation. Proceedings of NAACL 2018. [to appear]
+- Xintong Li, Lemao Liu, Zhaopeng Tu, Max Meng and Shuming Shi. Target foresight based attention for neural machine translation. Proceedings of NAACL 2018.
 
 - Lemao Liu, Muhua Zhu and Shuming Shi. Improving Sequence-to-Sequence Constituency Parsing. Proceedings of AAAI 2018. 
 
@@ -60,6 +61,6 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 
 ### Supervising and Collaborating
 
-- Interns: Chunpeng Ma (2015-2016), Kehai Chen (2017), Lianhui Qin (June, 2017 - Sept, 2017), Xintong Li (July, 2017 - ) and Guanlin Li (Dec, 2017 - )
+- Interns: Chunpeng Ma (2015-2016), Kehai Chen (2017), Lianhui Qin (June, 2017 - Sept, 2017), Xintong Li (July, 2017 - ), Guanlin Li (HIT, Dec, 2017 - ), Yu Liu (HIT, 2018 - ) and Mengzhou Xia (Fudan Univ., April, 2018 - Sept, 2018)
 - Colleagues: Eiichiro Sumita, Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, Peng Shen.
 
