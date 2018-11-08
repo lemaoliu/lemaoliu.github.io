@@ -1,6 +1,6 @@
 ## Welcome to Lemao's Homepage
 
-My name is Lemao Liu. I am currently a senior researcher at Tencent AI Lab, working on machine translation, parsing, natural language processing and their related topics. You can reach me through NAME at gmail dot com (NAME=lemaoliu).
+My name is Lemao Liu. I am currently a senior researcher at Tencent AI Lab, working on (human-machine interactive) machine translation, parsing, natural language processing and their related topics. You can reach me through NAME at gmail dot com (NAME=lemaoliu).
 
 ### More about me
 
