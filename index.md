@@ -11,7 +11,9 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 I have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
 
 ### Selected Publications
-- Mengzhou Xia, Guoping Huang, Lemao Liu, and Shuming Shi. Graph-based Translation Memory for Neural Machine Translation. Proceedings of AAAI 2019. [to appear].
+- Guanlin Li, Lemao Liu, Xintong Li, Conghui Zhu, Tiejun Zhao, and Shuming Shi. Understanding and Improving Hidden Representations for Neural Machine Translation. Proceedings of NAACL 2019. [to appear].
+
+- Mengzhou Xia, Guoping Huang, Lemao Liu, and Shuming Shi. Graph-based Translation Memory for Neural Machine Translation. Proceedings of AAAI 2019. 
 
 - Lianhui Qin, Lemao Liu, Victoria Bi, Yan Wang, Xiaojiang Liu, Zhiting Hu, Hai Zhao and Shuming Shi. Automatic Article Commenting: the Task and Dataset. Proceedings of ACL 2018. (short)
 
