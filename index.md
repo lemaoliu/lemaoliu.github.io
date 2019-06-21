@@ -63,7 +63,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 
 - Lemao Liu, Tiejun Zhao, Hailong Cao, Conghui Zhu, Chunyue Zhang. Hierarchical partition model based on markov random fields for hierarchical phrase-based machine translation. In Journal of Software 2012. [[paper](http://www.jos.org.cn/ch/reader/create_pdf.aspx?file_no=4207)] [Chinese version]
 
-### Supervising and Collaborating
+### Collaborators
 
 - Interns: Chunpeng Ma (HIT, 2015-2016), Kehai Chen (HIT, 2017), Lianhui Qin (SHJT->UW, 07/2017 - 09/2017), Xintong Li (CUHK, 07/2017 - 05/2019), Guanlin Li (HIT, 12/2017 - ), Yu Liu (HIT, 04/2018 - 11/2018), Mengzhou Xia (Fudan->CMU, 04/2018 - 08/2018) and Tianxiang Zhao (USTC->PSU, 01/2019-06/2019)
 - Colleagues: Eiichiro Sumita, Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, Peng Shen.
