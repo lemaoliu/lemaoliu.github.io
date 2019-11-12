@@ -13,7 +13,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 ### Selected Publications
 
 - Tianxiang Zhao, Lemao Liu, Guoping Huang, Zhaopeng Tu, Huayang Li, Yingling Liu, Guiquan Liu, Shuming Shi. Balancing Quality and Human Involvement: An Effective Approach to Interactive Neural Machine Translation. 
-Proceedings of AAI 2020. [to appear].
+Proceedings of AAAI 2020. [to appear].
 
 - Guanlin Li, Lemao Liu, Guoping Huang, Conghui Zhu, Tiejun Zhao. Understanding Data Augmentation in Neural Machine Translation: Two Perspectives towards Generalization. Proceedings of EMNLP-IJCNLP 2019. (short)
 
