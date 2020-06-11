@@ -11,7 +11,7 @@ LAT (Language Analysis and Translation) is a group at NLP Center, Tencent AI Lab
 ## Members
 
 #### Researchers
-- Lemao Liu
+- [Lemao Liu](index.md)
 - Guoping Huang
 - Huayang Li
 
