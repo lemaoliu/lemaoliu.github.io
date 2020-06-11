@@ -9,12 +9,12 @@ LAT (Language Analysis and Translation) is a group at NLP Center, Tencent AI Lab
 
 ## Members
 
-### Researchers
+#### Researchers
 - Lemao Liu
 - Guoping Huang
 - Huayang Li
 
-### Interns
+#### Interns
 - Jing Qian (phd student at UCSB, 06/2020 - )
 - Guanlin Li (phd student at HIT, 12/2017 - )
 - Honglin Han (engineering intern, undergraduate student at HIT, 04/2020 - )
