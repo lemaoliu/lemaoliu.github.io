@@ -1,6 +1,6 @@
 
 # Welcome to LAT Group
-LAT (Language Analysis and Translation) is a group at NLP Center, Tencent AI Lab. The mission of LAT group is to make machine understand natural language and bridge the gaps between two different languages. 
+LAT (Language Analysis and Translation) is a group at NLP Center, Tencent AI Lab. The mission of LAT group is to make machines understand natural language and bridge the gaps between two different languages. 
 
 ## Research Fields
 
