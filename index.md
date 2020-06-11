@@ -73,7 +73,7 @@ Proceedings of AAAI 2020.
 
 - Lemao Liu, Tiejun Zhao, Hailong Cao, Conghui Zhu, Chunyue Zhang. Hierarchical partition model based on markov random fields for hierarchical phrase-based machine translation. In Journal of Software 2012. [[paper](http://www.jos.org.cn/ch/reader/create_pdf.aspx?file_no=4207)] [Chinese version]
 
-- For full publication list, please check [[publication page](homepage/publications.md)]
+- For full publication list, please check [[publication page](publications.md)]
 ## Collaborators
 
 ### Interns 
