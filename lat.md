@@ -18,7 +18,7 @@ LAT (Language Analysis and Translation) is a group at NLP Center, Tencent AI Lab
 - Jing Qian (phd student at UCSB, 06/2020 - )
 - Guanlin Li (phd student at HIT, 12/2017 - )
 - Honglin Han (engineering intern, undergraduate student at HIT, 04/2020 - )
-- Zhangming Chan (Tencent Rhino-Bird Scholar, graduate student from Peking Univ., 05/2020 - )
+
 
 
 ### Alumni
