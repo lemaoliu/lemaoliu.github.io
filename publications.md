@@ -1,5 +1,7 @@
 # Publications
 
+- Huayang Li, Guoping Huang, Deng Cai, Lemao Liu. Neural Machine Translation with Noisy Lexical Constraints. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2020. (to appear)
+
 - Xintong Li, Lemao Liu, Rui Wang, Guoping Huang and Max Meng. Regularized Context Gates on Transformer for Machine Translation. Proceedings of ACL 2020. (short) 
 
 - Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi. Evaluating Explanation Methods for Neural Machine Translation. Proceedings of ACL 2020.
