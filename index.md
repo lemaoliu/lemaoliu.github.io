@@ -37,16 +37,16 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 ## Collaborators
 
 ### Interns 
-- Chunpeng Ma (HIT, 2015-2016) 
-- Kehai Chen (HIT, 2017)
-- Lianhui Qin (SHJT $\rightarrow$ UW, 07/2017 - 09/2017) 
-- Xintong Li (CUHK, 07/2017 - 05/2019)
-- Guanlin Li (HIT, 12/2017 - )
-- Yu Liu (HIT, 04/2018 - 11/2018)
-- Mengzhou Xia (Fudan->CMU, 04/2018 - 08/2018)
-- Tianxiang Zhao (USTC->PSU, 01/2019-06/2019)
-- Jierui Li (UESTC, 11/2019-06/2020)
-- Jing Qian (UCSB, 06/2020)
+- Chunpeng Ma (phd student at HIT, 10/2015 - 03/2016) 
+- Kehai Chen (phd student at HIT, 10/2017 - 03/2017)
+- Lianhui Qin (graduate student at SHJT, 07/2017 - 09/2017; now phd student at UW) 
+- Xintong Li (phd student at CUHK, 07/2017 - 05/2019; now postdoc at OSU)
+- Guanlin Li (phd student at HIT, 12/2017 - )
+- Yu Liu (ph.d student at HIT, 04/2018 - 11/2018)
+- Mengzhou Xia (undergraduate student at Fudan, 04/2018 - 08/2018; now phd student at Princeton)
+- Tianxiang Zhao (graduate student at USTC, 01/2019 - 06/2019; now phd student at PSU)
+- Jierui Li (undergraduate student at UESTC, 11/2019 - 06/2020)
+- Jing Qian (phd student at UCSB, 06/2020 -)
 
 ### Colleagues 
 - Eiichiro Sumita, Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, Peng Shen.
