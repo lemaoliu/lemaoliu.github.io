@@ -39,7 +39,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 ### Interns 
 - Chunpeng Ma (HIT, 2015-2016) 
 - Kehai Chen (HIT, 2017)
-- Lianhui Qin (SHJT->UW, 07/2017 - 09/2017) 
+- Lianhui Qin (SHJT &rarr UW, 07/2017 - 09/2017) 
 - Xintong Li (CUHK, 07/2017 - 05/2019)
 - Guanlin Li (HIT, 12/2017 - )
 - Yu Liu (HIT, 04/2018 - 11/2018)
