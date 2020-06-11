@@ -37,4 +37,4 @@ We have some intern positions available at NLP center, Tencent AI Lab. If you ha
 
 
 ## Publications
-Our publications during last three years is listed at the [webpage](lat-pub.md). 
+Our publications during last three years are listed at the [webpage](lat-pub.md). 
