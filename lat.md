@@ -45,6 +45,6 @@ We have some intern positions available at NLP center, Tencent AI Lab. If you ha
 ## Publications
 Our publications during recent years are listed at the [webpage](pub-lat.md). 
 - Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi. Evaluating Explanation Methods for Neural Machine Translation. Proceedings of ACL 2020.
-- Xintong Li, Lemao Liu, Rui Wang, Guoping Huang and Max Meng. Regularized Context Gates on Transformer for Machine Translation. Proceedings of ACL 2020.
+- Xintong Li, Lemao Liu, Rui Wang, Guoping Huang and Max Meng. Regularized Context Gates on Transformer for Machine Translation. Proceedings of ACL 2020. (short)
 
 
