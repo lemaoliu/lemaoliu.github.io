@@ -29,7 +29,7 @@ LAT (Language Analysis and Translation) is a group at NLP Center, Tencent AI Lab
 
 ## Opening Positions
 
-We have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop us an email through email@tencent.com where email belongs to {x \| redmondliu, donkeyhuang, alanili}. 
+We have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop us an email through EMAIL@tencent.com where EMAIL belongs to {x \| redmondliu, donkeyhuang, alanili}. 
 
 ## Alumni
 - Jierui Li (undergraduate student at UESTC, 11/2019 - 06/2020)
