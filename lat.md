@@ -25,7 +25,7 @@ LAT (Language Analysis and Translation) is a group at NLP Center, Tencent AI Lab
 We have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
 
 
-#### Alumni
+## Alumni
 - Jierui Li (undergraduate student at UESTC, 11/2019 - 06/2020)
 - Runze Nie (engineering intern, graduate student at Univ. Melbourne, 12/2019 - 03/2020)
 - Tianxiang Zhao (graduate student at USTC, 01/2019 - 06/2019; now phd student at PSU)
