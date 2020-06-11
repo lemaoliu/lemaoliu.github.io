@@ -15,8 +15,6 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 
 - Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi. Evaluating Explanation Methods for Neural Machine Translation. Proceedings of ACL 2020.
 
-- Lemao Liu, Andrew Finch, Masao Utiyama and Eiichiro Sumita. Agreement on Target-bidirectional Recurrent Neural Networks for Sequence-to-Sequence Learning. In Journal of Artificial Intelligence Research, 2020.
-
 - Xintong Li, Guanlin Li, Lemao Liu, Max Meng and Shuming Shi. On the Word Alignment from Neural Machine Translation. Proceedings of ACL 2019. 
 
 - Xintong Li, Lemao Liu, Zhaopeng Tu, Max Meng and Shuming Shi. Target foresight based attention for neural machine translation. Proceedings of NAACL 2018.
