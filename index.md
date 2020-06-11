@@ -57,8 +57,8 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 
 
 ### Visitors
-- Zhangming Chan (Tencent Rhino-Bird Scholarship, graduate student from Peking Univ., 05/2020 - )
-- Conghui Zhu (Tencent Rhino-Bird visiting prof. from HIT, 06/2019 - 01/2020)
+- Zhangming Chan (Tencent Rhino-Bird Scholar from Peking Univ., 05/2020 - )
+- Conghui Zhu (Tencent Rhino-Bird Visiting Prof. from HIT, 06/2019 - 01/2020)
 
 
 ### Colleagues 
