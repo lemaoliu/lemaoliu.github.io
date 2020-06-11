@@ -27,15 +27,12 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 
 - Lemao Liu, Masao Utiyama, Andrew Finch, Eiichiro Sumita. Neural Machine Translation with Supervised Attention. In Proceedings of COLING 2016. [[paper](http://aclweb.org/anthology/C/C16/C16-1291.pdf)]
 
-- Lemao Liu, Masao Utiyama, Andrew Finch, Eiichiro Sumita. Agreement on Target-bidirectional Neural Machine Translation. In Proceedings of NAACL 2016 (short). [[paper](http://www.aclweb.org/anthology/N16-1046)]
-
 - Lemao Liu, Liang Huang. Search-aware Tuning for Machine Translation. In Proceedings of EMNLP 2014. [[paper](http://aclweb.org/anthology/D/D14/D14-1209.pdf)]
 
 - Lemao Liu, Taro Watanabe, Eiichiro Sumita, Tiejun Zhao. Additive Neural Networks for Statistical Machine Translation. In Proceedings of ACL 2013. [[paper](http://www.aclweb.org/anthology/P13-1078)]
 
 - Lemao Liu, Hailong Cao, Taro Watanabe, Tiejun Zhao, Mo Yu, Conghui Zhu. Locally Training the Log-linear Model for SMT. In Proceedings of EMNLP-CoNLL 2012. [[paper](http://www.aclweb.org/anthology/D12-1037)]
 
-- - -
 
 ## Collaborators
 
