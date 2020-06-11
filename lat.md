@@ -4,7 +4,7 @@ LAT (Language Analysis and Translation) is a group at NLP Center, Tencent AI Lab
 
 ## Research Fields
 
-- Natural Language Analysis and Understanding:  morphology, syntax and semantics.
+- Natural Language Analysis and Understanding: theories and algorithms for morphology, syntax and semantics.
 - (Neural) Machine Translation: Models, Algorithms, Interpretability etc.
 - Interactive Machine Translation: Interactive methods, models and evaluation metrics. 
 
