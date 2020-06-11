@@ -1,16 +1,16 @@
-## Welcome to Lemao's Homepage
+# Welcome to Lemao's Homepage
 
 My name is Lemao Liu. I am currently a senior researcher at Tencent AI Lab, working on (human-machine interactive) machine translation, parsing, natural language processing and their related topics. You can reach me through NAME at gmail dot com (NAME=lemaoliu).
 
-### More about me
+## More about me
 
 I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near Poyang Lake, the largest freshwater lake in China. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions of Prof. Tiejun Zhao at HIT and Dr. Taro Watanabe at NICT. After that, I was a postdoc researcher at the City University of New York, working with Prof. Liang Huang; and then I was a researcher at NICT Japan between Sept. 2014 and March 2017. 
 
 
-### Opening Positions
+## Opening Positions
 I have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
 
-### Selected Publications
+## Selected Publications
 
 - Xintong Li, Lemao Liu, Rui Wang, Guoping Huang and Max Meng. Regularized Context Gates on Transformer for Machine Translation. Proceedings of ACL 2020. (short) 
 
@@ -73,7 +73,7 @@ Proceedings of AAAI 2020.
 
 - Lemao Liu, Tiejun Zhao, Hailong Cao, Conghui Zhu, Chunyue Zhang. Hierarchical partition model based on markov random fields for hierarchical phrase-based machine translation. In Journal of Software 2012. [[paper](http://www.jos.org.cn/ch/reader/create_pdf.aspx?file_no=4207)] [Chinese version]
 
-### Collaborators
+## Collaborators
 
 - Interns: Chunpeng Ma (HIT, 2015-2016), Kehai Chen (HIT, 2017), Lianhui Qin (SHJT->UW, 07/2017 - 09/2017), Xintong Li (CUHK, 07/2017 - 05/2019), Guanlin Li (HIT, 12/2017 - ), Yu Liu (HIT, 04/2018 - 11/2018), Mengzhou Xia (Fudan->CMU, 04/2018 - 08/2018) and Tianxiang Zhao (USTC->PSU, 01/2019-06/2019)
 - Colleagues: Eiichiro Sumita, Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, Peng Shen.
