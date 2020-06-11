@@ -20,8 +20,12 @@ LAT (Language Analysis and Translation) is a group at NLP Center, Tencent AI Lab
 - Honglin Han (engineering intern, undergraduate student at HIT, 04/2020 - )
 
 
+## Opening Positions
 
-### Alumni
+We have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
+
+
+#### Alumni
 - Jierui Li (undergraduate student at UESTC, 11/2019 - 06/2020)
 - Runze Nie (engineering intern, graduate student at Univ. Melbourne, 12/2019 - 03/2020)
 - Tianxiang Zhao (graduate student at USTC, 01/2019 - 06/2019; now phd student at PSU)
@@ -29,10 +33,4 @@ LAT (Language Analysis and Translation) is a group at NLP Center, Tencent AI Lab
 - Mengzhou Xia (undergraduate student at Fudan, 04/2018 - 08/2018; now phd student at Princeton)
 - Yu Liu (ph.d student at HIT, 04/2018 - 11/2018)
 - Lianhui Qin (graduate student at SHJT, 07/2017 - 09/2017; now phd student at UW) 
-- Chunpeng Ma (phd student at HIT, 10/2015 - 03/2016) 
-- Kehai Chen (phd student at HIT, 10/2017 - 03/2017; now researcher at NICT)
 - Conghui Zhu (Tencent Rhino-Bird visiting prof. from HIT, 06/2019 - 01/2020)
-
-## Opening Positions
-
-We have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
