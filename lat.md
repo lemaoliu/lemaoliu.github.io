@@ -2,6 +2,7 @@
 # Welcome to LAT Group
 LAT (Language Analysis and Translation) is a group at NLP Center, Tencent AI Lab. The mission of LAT group is to make machine understand natural language and bridge the gaps between two different languages. 
 
+
 ## News
 - 2020/04: A text understanding system [TexSmart](https://texsmart.qq.com) is released.  
 - 2018/11: A computer aided translation system [TranSmart](https://transmart.qq.com) is released. 
@@ -24,7 +25,6 @@ LAT (Language Analysis and Translation) is a group at NLP Center, Tencent AI Lab
 
 We have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
 
-
 ## Alumni
 - Jierui Li (undergraduate student at UESTC, 11/2019 - 06/2020)
 - Runze Nie (engineering intern, graduate student at Univ. Melbourne, 12/2019 - 03/2020)
@@ -34,3 +34,7 @@ We have some intern positions available at NLP center, Tencent AI Lab. If you ha
 - Yu Liu (ph.d student at HIT, 04/2018 - 11/2018)
 - Lianhui Qin (graduate student at SHJT, 07/2017 - 09/2017; now phd student at UW) 
 - Conghui Zhu (Tencent Rhino-Bird visiting prof. from HIT, 06/2019 - 01/2020)
+
+
+## Publications
+Our publications during last three years is listed at the [webpage](lat-pub.md). 
