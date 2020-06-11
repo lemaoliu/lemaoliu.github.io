@@ -38,7 +38,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 
 ### Interns 
 - Chunpeng Ma (phd student at HIT, 10/2015 - 03/2016) 
-- Kehai Chen (phd student at HIT, 10/2017 - 03/2017)
+- Kehai Chen (phd student at HIT, 10/2017 - 03/2017; now researcher at NICT)
 - Lianhui Qin (graduate student at SHJT, 07/2017 - 09/2017; now phd student at UW) 
 - Xintong Li (phd student at CUHK, 07/2017 - 05/2019; now postdoc at OSU)
 - Guanlin Li (phd student at HIT, 12/2017 - )
