@@ -8,7 +8,7 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 
 ## News
 - 2020/04: A text understanding system [TexSmart](https://texsmart.qq.com) is released.  
-- 2020/04: Two paper accepted by ACL 2020.
+- 2020/04: Two papers accepted by ACL 2020.
 - 2020/02: One paper accepted by JAIR.
 - 2018/11: A computer aided translation system [TranSmart](https://transmart.qq.com) is released. 
 
