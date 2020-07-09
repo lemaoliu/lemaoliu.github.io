@@ -43,7 +43,7 @@ Our publications during recent years are listed at the [webpage](pub-lat.md).
 - Tianxiang Zhao (graduate student at USTC, 01/2019 - 06/2019; now phd student at PSU)
 - Xintong Li (phd student at CUHK, 07/2017 - 05/2019; now postdoc at OSU)
 - Mengzhou Xia (undergraduate student at Fudan, 04/2018 - 08/2018; now phd student at Princeton)
-- Yu Liu (ph.d student at HIT, 04/2018 - 11/2018)
+- Yu Liu (phd student at HIT, 04/2018 - 11/2018)
 - Lianhui Qin (graduate student at SHJT, 07/2017 - 09/2017; now phd student at UW) 
 - Conghui Zhu (Tencent Rhino-Bird visiting prof. from HIT, 06/2019 - 01/2020)
 
