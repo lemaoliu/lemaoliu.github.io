@@ -37,8 +37,9 @@ Our publications during recent years are listed at the [webpage](pub-lat.md).
 - Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi. Evaluating Explanation Methods for Neural Machine Translation. Proceedings of ACL 2020.
 - Xintong Li, Lemao Liu, Rui Wang, Guoping Huang and Max Meng. Regularized Context Gates on Transformer for Machine Translation. Proceedings of ACL 2020. (short)
 
-## Reading Group
-The LAT group regularly holds a research seminar on NLP and its related fields to exchange ideas, discuss research, or review work in the field. The details can be found at [seminars](reading.md).
+## Seminars
+The LAT group regularly holds a research seminar on NLP and its related fields, in order to exchange ideas, discuss research, or review work in the field. The details can be found at [seminars](seminars.md).
+
 
 ## Alumni
 - Jierui Li (undergraduate student at UESTC, 11/2019 - 06/2020)
