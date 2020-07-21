@@ -1,6 +1,6 @@
 ## Seminars at LAT Group
 
-| Tables   |      Are      |  Cool |
+| Date   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
