@@ -32,7 +32,7 @@ LAT (Language Analysis and Translation) is a group at NLP Center, Tencent AI Lab
 
 ## Opening Positions
 
-We have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop us an email through EMAIL@tencent.com where EMAIL belongs to {redmondliu, donkeyhuang, alanili, newmanli}. 
+We have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, please check our [Job Description](JD.md) and welcome to drop us an email through EMAIL@tencent.com where EMAIL belongs to {redmondliu, donkeyhuang, alanili, newmanli}. 
 
 
 ## Publications
