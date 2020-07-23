@@ -20,7 +20,7 @@ LAT (Language Analysis and Translation) is a group at NLP Center, Tencent AI Lab
 - [Lemao Liu](index.md)
 - Guoping Huang
 - Huayang Li
-- Yangming Li
+- [Yangming Li](http://leepleased.github.io/)
 
 #### Interns
 - Jing Qian (phd student at UCSB, 06/2020 - )
