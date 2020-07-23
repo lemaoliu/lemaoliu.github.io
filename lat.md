@@ -20,6 +20,7 @@ LAT (Language Analysis and Translation) is a group at NLP Center, Tencent AI Lab
 - [Lemao Liu](index.md)
 - Guoping Huang
 - Huayang Li
+- Yangming Li
 
 #### Interns
 - Jing Qian (phd student at UCSB, 06/2020 - )
@@ -36,6 +37,9 @@ We have some intern positions available at NLP center, Tencent AI Lab. If you ha
 Our publications during recent years are listed at the [webpage](pub-lat.md). 
 - Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi. Evaluating Explanation Methods for Neural Machine Translation. Proceedings of ACL 2020.
 - Xintong Li, Lemao Liu, Rui Wang, Guoping Huang and Max Meng. Regularized Context Gates on Transformer for Machine Translation. Proceedings of ACL 2020. (short)
+- Yangming Li, Kaisheng Yao, Libo Qin, Wanxiang che, Xiaolong Li, and Ting Liu. Slot-consistent NLG for Task-oriented Dialogue Systems with Iterative Rectification Network. Proceedings of ACL 2020.
+- Yangming Li, Han Li, Kaisheng Yao, and Xiaolong Li. Handling Rare Entities for Neural Sequence Labeling. Proceedings of ACL 2020.
+
 
 ## Seminars
 The LAT group regularly holds a research seminar on NLP and its related fields, in order to exchange ideas, discuss research, or review work in the field. The details can be found at [seminars](seminars.md).
