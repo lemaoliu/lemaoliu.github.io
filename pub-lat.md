@@ -7,10 +7,16 @@
 
 - Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi. Evaluating Explanation Methods for Neural Machine Translation. Proceedings of ACL 2020.
 
+- Yangming Li, Kaisheng Yao, Libo Qin, Wanxiang che, Xiaolong Li, and Ting Liu. Slot-consistent NLG for Task-oriented Dialogue Systems with Iterative Rectification Network. Proceedings of ACL 2020.
+
+- Yangming Li, Han Li, Kaisheng Yao, and Xiaolong Li. Handling Rare Entities for Neural Sequence Labeling. Proceedings of ACL 2020.
+
 - Lemao Liu, Andrew Finch, Masao Utiyama and Eiichiro Sumita. Agreement on Target-bidirectional Recurrent Neural Networks for Sequence-to-Sequence Learning. In Journal of Artificial Intelligence Research, 2020.
 
 - Tianxiang Zhao, Lemao Liu, Guoping Huang, Zhaopeng Tu, Huayang Li, Yingling Liu, Guiquan Liu, Shuming Shi. Balancing Quality and Human Involvement: An Effective Approach to Interactive Neural Machine Translation. 
 Proceedings of AAAI 2020. 
+
+- Yangming Li, Kaisheng Yao, Libo Qin, Shuang Peng, Yijia Liu, and Xiaolong Li. Span-based Neural Buffer: Towards Efficient and Effective Utilization of Long-Distance Context for Neural Sequence Models. Proceedings of AAAI 2020.
 
 - Guanlin Li, Lemao Liu, Guoping Huang, Conghui Zhu, Tiejun Zhao. Understanding Data Augmentation in Neural Machine Translation: Two Perspectives towards Generalization. Proceedings of EMNLP-IJCNLP 2019. (short)
 
