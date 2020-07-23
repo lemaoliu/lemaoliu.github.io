@@ -7,7 +7,7 @@
 | col 3 is | right-aligned |    $1 |
 
 
-
+<!---
 <table>
     <thead>
         <tr>
@@ -34,3 +34,4 @@
         </tr>
     </tbody>
 </table>
+--->
