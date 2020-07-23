@@ -1,6 +1,10 @@
-Tencent AI Lab - NLP Center 
-NLP Interns, Vacancies: 2
-Location: Shenzhen
+# Intern Recruitment at [LAT Group](lat.md), NLP Center, Tencent AI Lab. 
+
+## Basic Information  
+
+- Vacancies: 2
+- Location: Shenzhen
+- Contact: EMAIL@tencent.com where EMAIL belongs to {redmondliu, donkeyhuang, alanili, newmanli}
 
 
 ## Responsibilities
