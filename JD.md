@@ -2,7 +2,7 @@
 
 ## Basic Information  
 
-- Vacancies: 2
+- Intern Vacancies: 2
 - Location: Shenzhen
 - Contact: EMAIL@tencent.com where EMAIL belongs to {redmondliu, donkeyhuang, alanili, newmanli}
 
