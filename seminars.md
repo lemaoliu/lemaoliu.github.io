@@ -2,7 +2,7 @@
 
 | Date   |      Titiles      |  Speakers |
 |----------|:-------------:|------:|
-| col 1 is |  Pre-training via Paraphrasing <br /> Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models  | Deng Cai |
+| col 1 is |  Pre-training via Paraphrasing <br /> Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models  | Deng Cai 
 | col 2 is |    MASS: Masked Sequence to Sequence Pre-training for Language Generation <br />
                 BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension <br /> 
                 PALM: Pre-training an Autoencoding&Autoregressive Language Model for Context-conditioned Generation  |   $12 |
