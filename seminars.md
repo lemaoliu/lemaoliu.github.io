@@ -8,7 +8,7 @@
 | 7-22 |    MASS: Masked Sequence to Sequence Pre-training for Language Generation <br /> BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension <br />  PALM: Pre-training an Autoencoding&Autoregressive Language Model for Context-conditioned Generation  |   Zhangming Chan |
 
 
-| 7-17 |  In Neural Machine Translation, What Does Transfer Learning Transfer? <br /> Demystifying Self-Supervised Learning: An Info-theoretic Framework.  | Guanlin Li 
+| 7-17 |  In Neural Machine Translation, What Does Transfer Learning Transfer? <br /> Demystifying Self-Supervised Learning: An Info-theoretic Framework.  | Guanlin Li |
 | 7-17 |    A Joint Named-Entity Recognizer for Heterogeneous Tag-sets Using a Tag Hierarchy <br /> Distantly Supervised Named Entity Recognition using Positive-Unlabeled Learning  |   Honglin Han |
 
 
