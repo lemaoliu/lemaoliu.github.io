@@ -2,7 +2,7 @@
 
 ## In 2020
 
-| Date   |      Titiles      |  Speakers |
+| Date   |      Titles      |  Speakers |
 |----------|:-------------:|------:|
 | 7-31 | Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics <br /> Evaluating Dialogue Generation Systems via Response Selection | Huayang Li |
 | 7-31 | Designing Precise and Robust Dialogue Response Evaluators | Jun Gao |
