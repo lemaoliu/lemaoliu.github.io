@@ -4,7 +4,7 @@
 
 | Date   |      Titles      |  Speakers |
 |----------|:-------------:|------:|
-| 7-31 | Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics <br /> Evaluating Dialogue Generation Systems via Response Selection | Huayang Li |
+| 8-7 | Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics <br /> Evaluating Dialogue Generation Systems via Response Selection | Huayang Li |
 | 7-31 | Designing Precise and Robust Dialogue Response Evaluators | Jun Gao |
 | 7-31 | Improving Image Captioning Evaluation by Considerig Inter References Variance | Deng Cai |
 | 7-31 | Beyond User Self-Reported Likert Scale Ratings： A Comparison Model for Automatic Dialog Evaluation | Zhangming Chan |
