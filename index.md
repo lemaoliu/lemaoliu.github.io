@@ -7,7 +7,6 @@ My name is Lemao Liu. I am currently a senior researcher at Tencent AI Lab, work
 I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near Poyang Lake, the largest freshwater lake in China. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions of Prof. Tiejun Zhao at HIT and Dr. Taro Watanabe at NICT. After that, I was a postdoc researcher at the City University of New York, working with Prof. Liang Huang; and then I was a researcher at NICT Japan between Sept. 2014 and March 2017. 
 
 ## News
-- 2020/04: A text understanding system [TexSmart](https://texsmart.qq.com) is released.  
 - 2020/04: Two papers accepted by ACL 2020.
 - 2020/02: One paper accepted by JAIR.
 - 2018/11: A computer aided translation system [TranSmart](https://transmart.qq.com) is released. 
