@@ -9,10 +9,6 @@ LAT (Language Analysis and Translation) is a group at NLP Center, Tencent AI Lab
 - Interactive Machine Translation: Interactive methods, models and evaluation metrics. 
 
 
-## News
-- 2020/04: A text understanding system [TexSmart](https://texsmart.qq.com) is released.  
-- 2018/11: A computer aided translation system [TranSmart](https://transmart.qq.com) is released. 
-
 
 ## Members
 
