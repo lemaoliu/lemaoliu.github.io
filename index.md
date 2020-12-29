@@ -14,10 +14,18 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 ## Opening Positions
 I have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
 
+
+
+## Professional Activities
+- IJCAI 2021 (Senior Program Committee)
+- Findings of EMNLP 2020 (Publication Co-chair)
+- Standing Reviewer: Computational Linguistics, TACL 
+
+
 ## Selected Publications
 #### For full publication list, please check [publication page](publications.md).
 
-+ Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi. Evaluating Explanation Methods for Neural Machine Translation. Proceedings of ACL 2020.
+- Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi. Evaluating Explanation Methods for Neural Machine Translation. Proceedings of ACL 2020.
 
 - Xintong Li, Guanlin Li, Lemao Liu, Max Meng and Shuming Shi. On the Word Alignment from Neural Machine Translation. Proceedings of ACL 2019. 
 
