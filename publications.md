@@ -8,7 +8,7 @@
 
 - Huayang Li, Lemao Liu, Guoping Huang, Shuming Shi. On the Branching Bias of Syntax Extracted from Pre-trained Language Models. EMNLP (Findings) 2020. (short)
 
-- Qian Wang, Jiajun Zhang, Lemao Liu, Guoping Huang, Chengqing Zong. Touch Editing: A Flexible One-Time Interaction Approach for Translation. Proceedings of AACL/IJCNLP 2020.
+- Qian Wang, Jiajun Zhang, Lemao Liu, Guoping Huang, Chengqing Zong. Touch Editing: A Flexible One-Time Interaction Approach for Translation. Proceedings of AACL-IJCNLP 2020.
 
 - Huayang Li, Guoping Huang, Deng Cai, Lemao Liu. Neural Machine Translation with Noisy Lexical Constraints. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2020. 
 
