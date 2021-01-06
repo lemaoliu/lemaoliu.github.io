@@ -19,7 +19,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 ## Professional Activities
 - IJCAI 2021 (Senior Program Committee)
 - Findings of EMNLP 2020 (Publication Co-chair)
-- Standing Reviewer: Computational Linguistics, TACL 
+- Standing Reviewer: Computational Linguistics, Transaction of ACL 
 
 
 ## Selected Publications
