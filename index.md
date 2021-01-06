@@ -45,12 +45,13 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 ### Interns 
 
 #### Current Interns
-- Jing Qian (phd student at UCSB, 06/2020 - )
 - Guanlin Li (phd student at HIT, 12/2017 - )
-- Honglin Han (engineering intern, undergraduate student at HIT, 04/2020 - )
+- Yibin Liu (engineering intern, master student at Peking Shenzhen, 11/2020 - )
 
 
 #### Past Interns
+- Jing Qian (phd student at UCSB, 06/2020 - 09/2020)
+- Honglin Han (engineering intern, undergraduate student at HIT, 04/2020 - 09/2020)
 - Jierui Li (undergraduate student at UESTC, 11/2019 - 06/2020)
 - Runze Nie (engineering intern, graduate student at Univ. Melbourne, 12/2019 - 03/2020)
 - Tianxiang Zhao (graduate student at USTC, 01/2019 - 06/2019; now phd student at PSU)
