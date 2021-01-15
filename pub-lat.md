@@ -1,7 +1,8 @@
 
 # Publications
+- Yangming Li, Lemao Liu and Shuming Shi. Empirical Analysis of Unlabeled Entity Problem in Named Entity Recognition. Proceedings of ICLR 2021.
 
-- Huayang Li, Guoping Huang, Deng Cai, Lemao Liu. Neural Machine Translation with Noisy Lexical Constraints. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2020. (to appear) 
+- Huayang Li, Guoping Huang, Deng Cai, Lemao Liu. Neural Machine Translation with Noisy Lexical Constraints. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2020.
 
 - Xintong Li, Lemao Liu, Rui Wang, Guoping Huang and Max Meng. Regularized Context Gates on Transformer for Machine Translation. Proceedings of ACL 2020. (short) 
 
