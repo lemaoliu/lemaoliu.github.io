@@ -1,4 +1,5 @@
 # Publications
+- Yangming Li, Lemao Liu and Kaisheng Yao. Neural Sequence Segmentation as Determining the Leftmost Segments. Proceedings of NAACL 2021 (to appear).
 
 - Yangming Li, Lemao Liu and Shuming Shi. Empirical Analysis of Unlabeled Entity Problem in Named Entity Recognition. Proceedings of ICLR 2021. (to appear)
 
