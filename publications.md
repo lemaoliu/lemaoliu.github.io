@@ -14,9 +14,9 @@
 
 - Lemao Liu, Haisong Zhang, Haiyun Jiang, Yangming Li, Enbo Zhao, Kun Xu, Linfeng Song, Suncong Zheng, Botong Zhou, dick zhu, Xiao Feng, Tao Chen, Tao Yang, Dong Yu, Feng Zhang, ZhanHui Kang and Shuming Shi. TexSmart: A System for Enhanced Natural Language Understanding. Proceedings of ACL 2021: Demo. (to appear)
 
-- Yangming Li, Lemao Liu and Kaisheng Yao. Neural Sequence Segmentation as Determining the Leftmost Segments. Proceedings of NAACL 2021. (to appear)
+- Yangming Li, Lemao Liu and Kaisheng Yao. Neural Sequence Segmentation as Determining the Leftmost Segments. Proceedings of NAACL 2021. 
 
-- Yangming Li, Lemao Liu and Shuming Shi. Empirical Analysis of Unlabeled Entity Problem in Named Entity Recognition. Proceedings of ICLR 2021. (to appear)
+- Yangming Li, Lemao Liu and Shuming Shi. Empirical Analysis of Unlabeled Entity Problem in Named Entity Recognition. Proceedings of ICLR 2021. 
 
 - Xintong Li, Lemao Liu, Rui Wang, Guoping Huang and Max Meng. Regularized Context Gates on Transformer for Machine Translation. Proceedings of ACL 2020. (short) 
 
