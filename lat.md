@@ -19,12 +19,13 @@ LAT (Language Analysis and Translation) is a (virtual) group at NLP Center, Tenc
 - [Yangming Li](http://leepleased.github.io/)
 
 #### Interns
-- Guanlin Li (phd student at HIT, 12/2017 - )
-- Honglin Han (engineering intern, undergraduate student at HIT, 04/2020 - )
-- Jing Qian (phd student at UCSB, 06/2020 - )
-- Zhangming Chan (M.S. at Peking Univ., Tencent Rhino-Bird Elite Training Program, 05/2020 -)
 - Qu Cui (engineering intern, M.S. at Nanjing Univ., 06/2020 - )
 - Jiannan Xiang (undergraduate student at USTC, 08/2020 - )
+- Zexin Lu (PhD at PolyU HK, 10/2020 -)
+- Yibin Liu (M.S. at Peking Shenzhen, 11/2020 - )
+- Yubin Ruan (M.S. at HIT, 05/2021 - )
+- Xueliang Zhao (M.S. at Peking, 05/2021 - )
+
 
 
 ## Opening Positions
@@ -45,6 +46,10 @@ The LAT group regularly holds a research seminar on NLP and its related fields, 
 
 
 ## Alumni
+- Guanlin Li (phd student at HIT, 12/2017 - 03/2021)
+- Honglin Han (engineering intern, undergraduate student at HIT, 04/2020 - 08/2020)
+- Jing Qian (phd student at UCSB, 06/2020 - 09/2020)
+- Zhangming Chan (M.S. at Peking Univ., Tencent Rhino-Bird Elite Training Program, 05/2020 - 01/2021)
 - Jierui Li (undergraduate student at UESTC, 11/2019 - 06/2020)
 - Runze Nie (engineering intern, graduate student at Univ. Melbourne, 12/2019 - 03/2020)
 - Tianxiang Zhao (graduate student at USTC, 01/2019 - 06/2019; now phd student at PSU)
