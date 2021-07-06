@@ -4,7 +4,7 @@
 
 - Qiuxiang He, Guoping Huang, Qu Cui, Li Li and Lemao Liu. Fast and Accurate Neural Machine Translation with Translation Memory. Proceedings of ACL 2021. (to appear)
 
-- Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu. Neural Machine Translation with Monolingual Translation Memory. Proceedings of ACL 2021. (to appear)
+- Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu. Neural Machine Translation with Monolingual Translation Memory. Proceedings of ACL 2021. (to appear) (Outstanding Paper Award)
 
 - Zexin Lu, Keyang Ding, Yuji Zhang, Jing Li, Baolin Peng and Lemao Liu. Engage the Public: Poll Question Generation for Social Media Posts. Proceedings of ACL 2021. (to appear)
 
