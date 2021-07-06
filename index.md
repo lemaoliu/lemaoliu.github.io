@@ -17,8 +17,6 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 ## Opening Positions
 I have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
 
-
-
 ## Professional Activities
 - Session Chairs (ACL 2021; IJCAI 2019)
 - IJCAI 2021 (Senior Program Committee)
@@ -56,11 +54,13 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 ### Interns 
 
 #### Current Interns
-- Guanlin Li (phd student at HIT, 12/2017 - )
 - Yibin Liu (engineering intern, master student at Peking Shenzhen, 11/2020 - )
-
+- Jiannan Xiang (master student at USTC, 05/2020 - )
+- Zexin Lu (Tencent Rhino-Bird Scholar, phd student at Poly HK)
 
 #### Past Interns
+- Guanlin Li (phd student at HIT, 12/2017 - 2021/02)
+- Zhangming Chan (Tencent Rhino-Bird Scholar, master from Peking Univ., 05/2020 - )
 - Jing Qian (phd student at UCSB, 06/2020 - 09/2020)
 - Honglin Han (engineering intern, undergraduate student at HIT, 04/2020 - 09/2020)
 - Jierui Li (undergraduate student at UESTC, 11/2019 - 06/2020)
@@ -75,7 +75,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 
 
 ### Visitors
-- Zhangming Chan (Tencent Rhino-Bird Scholar from Peking Univ., 05/2020 - )
+
 - Conghui Zhu (Tencent Rhino-Bird Visiting Prof. from HIT, 06/2019 - 01/2020)
 
 
