@@ -31,7 +31,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 
 - Qiuxiang He, Guoping Huang, Qu Cui, Li Li and Lemao Liu. Fast and Accurate Neural Machine Translation with Translation Memory. Proceedings of ACL 2021. 
 
-- Zexin Lu, Keyang Ding, Yuji Zhang, Jing Li, Baolin Peng and Lemao Liu. Engage the Public: Poll Question Generation for Social Media Posts. Proceedings of ACL 2021. (to appear)
+- Zexin Lu, Keyang Ding, Yuji Zhang, Jing Li, Baolin Peng and Lemao Liu. Engage the Public: Poll Question Generation for Social Media Posts. Proceedings of ACL 2021.
 
 - Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi. Evaluating Explanation Methods for Neural Machine Translation. Proceedings of ACL 2020.
 
