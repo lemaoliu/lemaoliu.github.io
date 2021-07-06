@@ -50,7 +50,6 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 
 - Lemao Liu, Hailong Cao, Taro Watanabe, Tiejun Zhao, Mo Yu, Conghui Zhu. Locally Training the Log-linear Model for SMT. In Proceedings of EMNLP-CoNLL 2012. [[paper](http://www.aclweb.org/anthology/D12-1037)]
 
-<p><a href="publications.md"> :arrow_right:  full list</a></p>
 
 ## Collaborators
 
