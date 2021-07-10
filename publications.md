@@ -18,6 +18,10 @@
 
 - Yangming Li, Lemao Liu and Shuming Shi. Empirical Analysis of Unlabeled Entity Problem in Named Entity Recognition. Proceedings of ICLR 2021. 
 
+- Xintong Li, Lemao Liu, Zhaopeng Tu, Guanlin Li, Max Meng and Shuming Shi. Attending from Foresight: A Novel Attention Mechanism for Neural Machine Translation. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2021.
+
+- Guanlin Li, Lemao Liu, Rui Wang, Conghui Zhu, Tiejun Zhao and Shuming Shi. Detecting and Understanding Generalization Barriers for Neural Machine Translation.  In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2021.
+
 - Xintong Li, Lemao Liu, Rui Wang, Guoping Huang and Max Meng. Regularized Context Gates on Transformer for Machine Translation. Proceedings of ACL 2020. (short) 
 
 - Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi. Evaluating Explanation Methods for Neural Machine Translation. Proceedings of ACL 2020.
