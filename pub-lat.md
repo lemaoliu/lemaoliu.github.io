@@ -1,11 +1,19 @@
 
 # Publications
 
-- Huayang Li, Lemao Liu, Guoping Huang and Shuming Shi. GWLAN: General Word-Level AutocompletioN for Computer-Aided Translation. Proceedings of ACL 2021. (to appear)
+- Jing Qian, yibin liu, Lemao Liu, Yangming Li, Haiyun Jiang, Haisong Zhang and Shuming Shi. Fine-grained Entity Typing without Knowledge Base. Proceedings of EMNLP 2021. 
 
-- Qiuxiang He, Guoping Huang, Qu Cui, Li Li and Lemao Liu. Fast and Accurate Neural Machine Translation with Translation Memory. Proceedings of ACL 2021. (to appear)
+- Yi Chen, Haiyun Jiang, Lemao Liu, Shuming Shi, Chuang Fan, Min Yang and Ruifeng Xu. An Empirical Study on Multiple Information Sources for Zero-shot Fine-grained Entity Typing. Proceedings of EMNLP 2021. 
 
-- Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu. Neural Machine Translation with Monolingual Translation Memory. Proceedings of ACL 2021. (to appear)
+- Yangming Li, Lemao Liu and Shuming Shi. Segmenting Natural Language Sentences via Lexical Unit Analysis. Proceedings of EMNLP 2021: Findings. (short) 
+
+- Yu Feng, Jing Zhang, Gaole He, Wayne Xin Zhao, Lemao Liu, Quan Liu, Cuiping Li and Hong Chen. A Pretraining Numerical Reasoning Model for Ordinal Constrained Question Answering on Knowledge Base. Proceedings of EMNLP 2021: Findings. Proceedings of EMNLP 2021: Findings.
+
+- Huayang Li, Lemao Liu, Guoping Huang and Shuming Shi. GWLAN: General Word-Level AutocompletioN for Computer-Aided Translation. Proceedings of ACL 2021. 
+
+- Qiuxiang He, Guoping Huang, Qu Cui, Li Li and Lemao Liu. Fast and Accurate Neural Machine Translation with Translation Memory. Proceedings of ACL 2021. 
+
+- Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu. Neural Machine Translation with Monolingual Translation Memory. Proceedings of ACL 2021. (Outstanding Paper Award)
 
 - Zexin Lu, Keyang Ding, Yuji Zhang, Jing Li, Baolin Peng and Lemao Liu. Engage the Public: Poll Question Generation for Social Media Posts. Proceedings of ACL 2021. (to appear)
 
