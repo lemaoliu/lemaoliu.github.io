@@ -7,7 +7,7 @@
 
 - Yangming Li, Lemao Liu and Shuming Shi. Segmenting Natural Language Sentences via Lexical Unit Analysis. Proceedings of EMNLP 2021: Findings. (short) 
 
-- Yu Feng, Jing Zhang, Gaole He, Wayne Xin Zhao, Lemao Liu, Quan Liu, Cuiping Li and Hong Chen. A Pretraining Numerical Reasoning Model for Ordinal Constrained Question Answering on Knowledge Base. Proceedings of EMNLP 2021: Findings. Proceedings of EMNLP 2021: Findings.
+- Yu Feng, Jing Zhang, Gaole He, Wayne Xin Zhao, Lemao Liu, Quan Liu, Cuiping Li and Hong Chen. A Pretraining Numerical Reasoning Model for Ordinal Constrained Question Answering on Knowledge Base. Proceedings of EMNLP 2021: Findings. 
 
 - Huayang Li, Lemao Liu, Guoping Huang and Shuming Shi. GWLAN: General Word-Level AutocompletioN for Computer-Aided Translation. Proceedings of ACL 2021. 
 
