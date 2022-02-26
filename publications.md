@@ -1,5 +1,6 @@
-# Publications
+## Publications
 
+# 2022 
 - Yanling Xiao, Lemao Liu, Guoping Huang, Qu Cui, Shujian Huang, Shuming Shi, and Jiajun Chen. BiTIIMT: A Bilingual Text-Infilling Method for Interactive Machine Translation. ACL 2022.
 
 - Yangming Li, Lemao Liu, and Shuming Shi. Rethinking Negative Sampling for Handling Missing Entity Annotations. ACL 2022.
@@ -10,6 +11,7 @@
 
 - Jiannan Xiang, Huayang Li, Yahui Liu, Lemao Liu, Guoping Huang, Defu Lian, and Shuming Shi. Investigating Data Variance in Evaluations of Automatic Machine Translation Metrics. Proceedings of ACL 2022: Findings (Short).
 
+# 2021
 - Jing Qian, yibin liu, Lemao Liu, Yangming Li, Haiyun Jiang, Haisong Zhang and Shuming Shi. Fine-grained Entity Typing without Knowledge Base. Proceedings of EMNLP 2021. 
 
 - Yi Chen, Haiyun Jiang, Lemao Liu, Shuming Shi, Chuang Fan, Min Yang and Ruifeng Xu. An Empirical Study on Multiple Information Sources for Zero-shot Fine-grained Entity Typing. Proceedings of EMNLP 2021. 
