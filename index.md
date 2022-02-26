@@ -28,17 +28,9 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 #### For full publication list, please check [publication page](publications.md).
 - Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu. Neural Machine Translation with Monolingual Translation Memory. Proceedings of ACL 2021. (Outstanding Paper Award)
 
-- Huayang Li, Lemao Liu, Guoping Huang and Shuming Shi. GWLAN: General Word-Level AutocompletioN for Computer-Aided Translation. Proceedings of ACL 2021. 
-
-- Qiuxiang He, Guoping Huang, Qu Cui, Li Li and Lemao Liu. Fast and Accurate Neural Machine Translation with Translation Memory. Proceedings of ACL 2021. 
-
-- Zexin Lu, Keyang Ding, Yuji Zhang, Jing Li, Baolin Peng and Lemao Liu. Engage the Public: Poll Question Generation for Social Media Posts. Proceedings of ACL 2021.
-
 - Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi. Evaluating Explanation Methods for Neural Machine Translation. Proceedings of ACL 2020.
 
 - Xintong Li, Guanlin Li, Lemao Liu, Max Meng and Shuming Shi. On the Word Alignment from Neural Machine Translation. Proceedings of ACL 2019. 
-
-- Xintong Li, Lemao Liu, Zhaopeng Tu, Max Meng and Shuming Shi. Target foresight based attention for neural machine translation. Proceedings of NAACL 2018.
 
 - Lemao Liu, Masao Utiyama, Andrew Finch, Eiichiro Sumita. Neural Machine Translation with Supervised Attention. In Proceedings of COLING 2016. [[paper](http://aclweb.org/anthology/C/C16/C16-1291.pdf)]
 
