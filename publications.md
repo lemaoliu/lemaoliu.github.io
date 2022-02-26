@@ -1,11 +1,11 @@
 # Publications
 
 ## 2022 
-- Yanling Xiao, Lemao Liu, Guoping Huang, Qu Cui, Shujian Huang, Shuming Shi, and Jiajun Chen. BiTIIMT: A Bilingual Text-Infilling Method for Interactive Machine Translation. ACL 2022.
+- Yanling Xiao, Lemao Liu, Guoping Huang, Qu Cui, Shujian Huang, Shuming Shi, and Jiajun Chen. BiTIIMT: A Bilingual Text-Infilling Method for Interactive Machine Translation. Proceedings of ACL 2022.
 
-- Yangming Li, Lemao Liu, and Shuming Shi. Rethinking Negative Sampling for Handling Missing Entity Annotations. ACL 2022.
+- Yangming Li, Lemao Liu, and Shuming Shi. Rethinking Negative Sampling for Handling Missing Entity Annotations. Proceedings of ACL 2022.
 
-- Yi Chen, Jiayang Cheng, Haiyun Jiang, Lemao Liu, Haisong Zhang, Shuming Shi, and Ruifeng Xu. Learning from Sibling Mentions with Scalable Graph Inference in Fine-Grained Entity Typing. ACL 2022.
+- Yi Chen, Jiayang Cheng, Haiyun Jiang, Lemao Liu, Haisong Zhang, Shuming Shi, and Ruifeng Xu. Learning from Sibling Mentions with Scalable Graph Inference in Fine-Grained Entity Typing. Proceedings of ACL 2022.
 
 - Jiannan Xiang, Huayang Li, Defu Lian, Guoping Huang, Taro Watanabe, and Lemao Liu. Visualizing the Relationship Between Encoded Linguistic Information and Task Performance. Proceedings of ACL 2022: Findings.
 
