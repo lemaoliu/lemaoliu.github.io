@@ -4,13 +4,11 @@ My name is Lemao Liu. I am currently a senior researcher at Tencent AI Lab, work
 
 ## More about me
 
-<img src="homepage_lemao.jpg" style="float: left;" width="200" height="250" />
-
 <table>
 <tr><th></th><th></th><th></th>
 	
 <tr>
-<td><img src="pic.jpeg" width=160 height=240 alt="a photo"></td>	
+<td><img src="homepage_lemao.jpg" width=160 height=240 alt="a photo"></td>	
 <td>&nbsp;&nbsp;&nbsp;</td>
 
 <td><h1> 王 瑞 (Wang, Rui) </h1>
