@@ -86,5 +86,5 @@ It is my pleasure and great honor to work with the following smart students.
 
 
 ### Colleagues 
-- Eiichiro Sumita, Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, Peng Shen.
+- Eiichiro Sumita, Masao Utiyama, Andrew Finch, Akihiro Tamura, Atsushi Fujita, Rui Wang, Xugang Lu, Peng Shen, Guoping Huang, Shuming Shi etc.
 
