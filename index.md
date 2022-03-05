@@ -59,6 +59,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 - Yibin Liu (engineering intern, master student at Peking Shenzhen, 11/2020 - 2022/02, 1 EMNLP)
 - Qiuxiang He (Southwest Univ., 07/2020 - 12/2021, 1 ACL)
 - Jiannan Xiang (master student at USTC, 05/2020 - 2021/09, 3 ACL)
+- Deng Cai (Co-advised with Yan, phd student at CUHK, 09/2020 - 02/2021)
 - Zexin Lu (Tencent Rhino-Bird Scholar, Phd student at Poly HK, 05/2021 - 12/2021, 1 ACL)
 - Guanlin Li (phd student at HIT, 12/2017 - 2021/02, 2 ACL + 1 EMNLP + 1 NAACL + 2 TASLP)
 - Zhangming Chan (Tencent Rhino-Bird Scholar, master from Peking Univ., 05/2020 - 2021/01, 1 ACL)
