@@ -14,7 +14,7 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 - 11/2021: Four papers accepted by EMNLP 2021.
 - 07/2021: Outstanding Paper Award at ACL 2021. 
 - 05/2021: Seven papers accepted by ACL 2021. 
-- 07/2021: Best Demo Award at CCL 2020. 
+- 07/2020: Best Demo Award at CCL 2020. 
 - 04/2020: Two papers accepted by ACL 2020.
 - 02/2020: One paper accepted by JAIR.
 
