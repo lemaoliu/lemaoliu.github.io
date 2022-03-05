@@ -1,7 +1,7 @@
 # Welcome to Lemao's Homepage
 
 
-<img align="left" src="homepage_lemao.jpg" width=160 height=220 alt="a photo" style="float:left; padding-right:80px">
+<img align="left" src="homepage_lemao.jpg" width=160 height=240 alt="a photo" style="float:left; padding-right:80px">
 
 I am currently a senior researcher at Tencent AI Lab, working on (human-machine interactive) machine translation, parsing, natural language processing and their related topics. I am a member of [LAT group](lat.md) and you can reach me through NAME at gmail dot com (NAME=lemaoliu).
 
