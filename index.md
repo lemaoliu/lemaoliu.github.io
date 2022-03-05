@@ -4,12 +4,12 @@
 <tr><th></th><th></th><th></th>
 	
 <tr>
-<td><img src="homepage_lemao.jpg" width=160 height=240 alt="a photo"></td>	
+<td></td>	
 <td>&nbsp;&nbsp;&nbsp;</td>
 
 <td><h1> Lemao Liu </h1>
 </p>	
-<strong> Senior Researcher </strong></br>
+Senior Researcher </br>
 Tencent AI Lab</br>
 </br>
 Email: lemaoliu AT gmail</br>
@@ -22,6 +22,8 @@ Email: lemaoliu AT gmail</br>
 
 
 
+
+<img align="right" src="homepage_lemao.jpg" width=160 height=240 alt="a photo">
 I am currently a senior researcher at Tencent AI Lab, working on (human-machine interactive) machine translation, parsing, natural language processing and their related topics. I am a member of [LAT group](lat.md) and you can reach me through NAME at gmail dot com (NAME=lemaoliu).
 I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near Poyang Lake, the largest freshwater lake in China. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions of Prof. Tiejun Zhao at HIT and Dr. Taro Watanabe at NICT. After that, I was a postdoc researcher at the City University of New York, working with Prof. Liang Huang; and then I was a researcher at NICT Japan between Sept. 2014 and March 2017. 
 
