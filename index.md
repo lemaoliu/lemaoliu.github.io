@@ -10,12 +10,13 @@ I am currently a senior researcher at Tencent AI Lab, working on (human-machine 
 I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near Poyang Lake, the largest freshwater lake in China. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions of Prof. Tiejun Zhao at HIT and Dr. Taro Watanabe at NICT. After that, I was a postdoc researcher at the City University of New York, working with Prof. Liang Huang; and then I was a researcher at NICT Japan between Sept. 2014 and March 2017. 
 
 ## News
-- 2022/02: Five papers accepted by ACL 2022.
-- 2021/07: Outstanding Paper Award at ACL 2021. 
-- 2021/05: Seven papers accepted by ACL 2021. 
-- 2021/07: Best Demo Award at CCL 2020. 
-- 2020/04: Two papers accepted by ACL 2020.
-- 2020/02: One paper accepted by JAIR.
+- 02/2022: Five papers accepted by ACL 2022.
+- 11/2021: Four papers accepted by EMNLP 2021.
+- 07/2021: Outstanding Paper Award at ACL 2021. 
+- 05/2021: Seven papers accepted by ACL 2021. 
+- 07/2021: Best Demo Award at CCL 2020. 
+- 04/2020: Two papers accepted by ACL 2020.
+- 02/2020: One paper accepted by JAIR.
 
 
 ## Opening Positions
@@ -57,8 +58,8 @@ It is my pleasure and great honor to work with the following smart students.
 
 #### Past Interns/Students
 
-- Yanling Xiao (Co-advised with Guoping, master student at Nanjing Univ., 07/2020 - 2022/02, 1 ACL)
-- Yibin Liu (engineering intern, master student at Peking Shenzhen, 11/2020 - 2022/02, 1 EMNLP)
+- Yanling Xiao (Co-advised with Guoping, master student at Nanjing Univ., 07/2020 - 02/2022, 1 ACL)
+- Yibin Liu (engineering intern, master student at Peking Shenzhen, 11/2020 - 02/2022, 1 EMNLP)
 - Qiuxiang He (Southwest Univ., 07/2020 - 12/2021, 1 ACL)
 - Jiannan Xiang (master student at USTC, 05/2020 - 2021/09, now master at CMU 3 ACL)
 - Deng Cai (Co-advised with Yan, phd student at CUHK, 09/2020 - 02/2021, 1 ACL)
