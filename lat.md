@@ -15,7 +15,6 @@ LAT (Language Analysis and Translation) is a (virtual) group at NLP Center, Tenc
 #### Researchers
 - [Lemao Liu](index.md)
 - Guoping Huang
-- Huayang Li
 - [Yangming Li](http://leepleased.github.io/)
 
 #### Interns
@@ -46,6 +45,7 @@ The LAT group regularly holds a research seminar on NLP and its related fields, 
 
 
 ## Alumni
+- Huayang Li (08/2017 - 07/2021)
 - Guanlin Li (phd student at HIT, 12/2017 - 03/2021)
 - Honglin Han (engineering intern, undergraduate student at HIT, 04/2020 - 08/2020)
 - Jing Qian (phd student at UCSB, 06/2020 - 09/2020)
