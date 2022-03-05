@@ -67,7 +67,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 - Jierui Li (undergraduate student at UESTC, 11/2019 - 06/2020, 1 ACL)
 - Runze Nie (engineering intern, graduate student at Univ. Melbourne, 12/2019 - 03/2020)
 - Tianxiang Zhao (Co-advised with Guoping, graduate student at USTC, 01/2019 - 06/2019; now phd student at PSU, 1 AAAI)
-- - Qian Wang (Co-advised with Guoping, master student at IA CAS, 07/2018 - 12/2019)
+- Qian Wang (Co-advised with Guoping, master student at IA CAS, 07/2018 - 12/2019)
 - Xintong Li (phd student at CUHK, 07/2017 - 05/2019; now postdoc at OSU, 2 ACL + 2 NAACL + 1 TASLP)
 - Mengzhou Xia (Co-advised with Guoping, undergraduate student at Fudan, 04/2018 - 08/2018; now phd student at Princeton, 1 AAAI)
 - Huayang Li (Co-adivsed with Guoping, undergraduate student at Central China Normal Univ., 07/2017 - 05/2018, 1 TASLP)
