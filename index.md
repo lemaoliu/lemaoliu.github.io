@@ -52,7 +52,7 @@ It is my pleasure and great honor to work with the following smart students.
 #### Current Interns/Students
 - Xueliang Zhao (Tencent Rhino-Bird Scholar, master student at Peking, 08/2021 - )
 - Hongkun Hao (Undergraduate at Shanghai Jiaotong Univ., 12/2021)
-- Wei Shao (City Univ. of HK, 12/2021 - )
+- Wei Shao (CityU of HK, 12/2021 - )
 
 
 #### Past Interns/Students
