@@ -73,8 +73,8 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 - Huayang Li (Co-adivsed with Guoping, undergraduate student at Central China Normal Univ., 07/2017 - 05/2018, 1 TASLP)
 - Yu Liu (ph.d student at HIT, 04/2018 - 11/2018)
 - Lianhui Qin (graduate student at SHJT, 07/2017 - 09/2017; now phd student at UW, 1 ACL) 
-- Chunpeng Ma (phd student at HIT, 10/2015 - 03/2016, 1 AAAI) 
 - Kehai Chen (phd student at HIT, 10/2017 - 03/2017; now researcher at NICT, 2 EMNLP + 1 AAAI + 2 TASLP)
+- Chunpeng Ma (phd student at HIT, 10/2015 - 03/2016, 1 AAAI) 
 
 
 ### Visitors
