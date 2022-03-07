@@ -76,8 +76,8 @@ It is my pleasure and great honor to work with the following smart students.
 - Huayang Li (Co-adivsed with Guoping, undergraduate student at Central China Normal Univ., 07/2017 - 05/2018; now master at NAIST, 1 TASLP)
 - Yu Liu (phd student at HIT, 04/2018 - 11/2018)
 - Lianhui Qin (graduate student at SHJT, 07/2017 - 09/2017; now phd student at UW, 1 ACL) 
-- [Kehai Chen](https://chenkehai.github.io/) (phd student at HIT, 10/2017 - 03/2017; now researcher at NICT, 2 EMNLP + 1 AAAI + 2 TASLP)
-- Chunpeng Ma (phd student at HIT, 10/2015 - 03/2016, 1 AAAI) 
+- [Kehai Chen](https://chenkehai.github.io/) (phd student at HIT, 10/2017 - 03/2017; now Ass. Prof. at HIT, 2 EMNLP + 1 AAAI + 2 TASLP)
+- Chunpeng Ma (phd student at HIT, 10/2015 - 03/2016; Now researcher at Fujitsu., 1 AAAI) 
 
 
 ### Visitors
