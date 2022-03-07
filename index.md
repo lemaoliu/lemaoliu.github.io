@@ -62,7 +62,6 @@ It is my pleasure and great honor to work with the following smart students.
 - Yibin Liu (engineering intern, master student at Peking Shenzhen, 11/2020 - 02/2022, 1 EMNLP)
 - Qiuxiang He (Southwest Univ., 07/2020 - 12/2021, 1 ACL)
 - Jiannan Xiang (master student at USTC, 05/2020 - 2021/09, now master at CMU 3 ACL)
-- Deng Cai (Co-advised with Yan, phd student at CUHK, 09/2020 - 02/2021, 1 ACL)
 - Zexin Lu (Tencent Rhino-Bird Scholar, phd student at Poly HK, 05/2021 - 12/2021, 1 ACL)
 - [Guanlin Li](https://epsilon-lee.github.io/) (phd student at HIT, 12/2017 - 2021/02, 2 ACL + 1 EMNLP + 1 NAACL + 2 TASLP)
 - Zhangming Chan (Tencent Rhino-Bird Scholar, master from Peking Univ., 05/2020 - 2021/01, 1 ACL)
