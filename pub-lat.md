@@ -1,7 +1,18 @@
 
 # Publications
+- Yanling Xiao, Lemao Liu, Guoping Huang, Qu Cui, Shujian Huang, Shuming Shi, and Jiajun Chen. BiTIIMT: A Bilingual Text-Infilling Method for Interactive Machine Translation. Proceedings of ACL 2022.
 
-- Jing Qian, yibin liu, Lemao Liu, Yangming Li, Haiyun Jiang, Haisong Zhang and Shuming Shi. Fine-grained Entity Typing without Knowledge Base. Proceedings of EMNLP 2021. 
+- Yangming Li, Lemao Liu, and Shuming Shi. Rethinking Negative Sampling for Handling Missing Entity Annotations. Proceedings of ACL 2022.
+
+- Yi Chen, Jiayang Cheng, Haiyun Jiang, Lemao Liu, Haisong Zhang, Shuming Shi, and Ruifeng Xu. Learning from Sibling Mentions with Scalable Graph Inference in Fine-Grained Entity Typing. Proceedings of ACL 2022.
+
+- Minghuan Tan, Yong Dai, Duyu Tang, Zhangyin Feng, Guoping Huang, Jing Jiang, Jiwei Li, Shuming Shi. Exploring and Adapting Chinese GPT to Pinyin Input Method. Proceedings of ACL 2022.
+
+- Jiannan Xiang, Huayang Li, Defu Lian, Guoping Huang, Taro Watanabe, and Lemao Liu. Visualizing the Relationship Between Encoded Linguistic Information and Task Performance. Proceedings of ACL 2022: Findings.
+
+- Jiannan Xiang, Huayang Li, Yahui Liu, Lemao Liu, Guoping Huang, Defu Lian, and Shuming Shi. Investigating Data Variance in Evaluations of Automatic Machine Translation Metrics. Proceedings of ACL 2022: Findings (Short).
+
+- Jing Qian, Yibin Liu, Lemao Liu, Yangming Li, Haiyun Jiang, Haisong Zhang and Shuming Shi. Fine-grained Entity Typing without Knowledge Base. Proceedings of EMNLP 2021. 
 
 - Yi Chen, Haiyun Jiang, Lemao Liu, Shuming Shi, Chuang Fan, Min Yang and Ruifeng Xu. An Empirical Study on Multiple Information Sources for Zero-shot Fine-grained Entity Typing. Proceedings of EMNLP 2021. 
 
