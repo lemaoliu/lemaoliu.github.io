@@ -15,14 +15,9 @@ LAT (Language Analysis and Translation) is a (virtual) group at NLP Center, Tenc
 #### Researchers
 - [Lemao Liu](index.md)
 - Guoping Huang
-- [Yangming Li](http://leepleased.github.io/)
+
 
 #### Interns
-- Qu Cui (engineering intern, M.S. at Nanjing Univ., 06/2020 - )
-- Jiannan Xiang (undergraduate student at USTC, 08/2020 - )
-- Zexin Lu (PhD at PolyU HK, 10/2020 -)
-- Yibin Liu (M.S. at Peking Shenzhen, 11/2020 - )
-- Yubin Ruan (M.S. at HIT, 05/2021 - )
 - Xueliang Zhao (M.S. at Peking, 05/2021 - )
 
 
@@ -41,11 +36,17 @@ Our publications during recent years are listed at the [webpage](pub-lat.md).
 
 
 ## Seminars
-The LAT group regularly holds a research seminar on NLP and its related fields, in order to exchange ideas, discuss research, or review work in the field. The details can be found at [seminars](seminars.md).
+The LAT group regularly holds a reading group on NLP and its related fields, in order to exchange ideas, discuss research, or review work. The details can be found at [reading-group](https://github.com/visionshao/paper-reading).
 
 
 ## Alumni
 - Huayang Li (08/2017 - 07/2021)
+- [Yangming Li](http://leepleased.github.io/) (08/2020 - 03/2022)
+- Qu Cui  M.S. at Nanjing Univ., 06/2020 - 07/2021)
+- Jiannan Xiang (undergraduate student at USTC, 08/2020 - 09/2021)
+- Zexin Lu (PhD at PolyU HK, 10/2020 - 08/2021)
+- Yibin Liu (M.S. at Peking Shenzhen, 11/2020 - 06/2021)
+- Yubin Ruan (M.S. at HIT, 05/2021 - 02/2022)
 - Guanlin Li (phd student at HIT, 12/2017 - 03/2021)
 - Honglin Han (engineering intern, undergraduate student at HIT, 04/2020 - 08/2020)
 - Jing Qian (phd student at UCSB, 06/2020 - 09/2020)
