@@ -40,9 +40,13 @@ The LAT group regularly holds a reading group on NLP and its related fields, in 
 
 
 ## Alumni
-- Huayang Li (08/2017 - 07/2021)
+### Colleagues
 - [Yangming Li](http://leepleased.github.io/) (08/2020 - 03/2022)
-- Qu Cui  M.S. at Nanjing Univ., 06/2020 - 07/2021)
+- Huayang Li (08/2017 - 07/2021)
+
+### Interns
+- Qu Cui  (M.S. at Nanjing Univ., 06/2020 - 07/2021)
+- Jiahao Xu (Phd student at NTU, 08/2021 - 02/2022)
 - Jiannan Xiang (undergraduate student at USTC, 08/2020 - 09/2021)
 - Zexin Lu (PhD at PolyU HK, 10/2020 - 08/2021)
 - Yibin Liu (M.S. at Peking Shenzhen, 11/2020 - 06/2021)
