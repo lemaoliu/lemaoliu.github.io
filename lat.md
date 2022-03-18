@@ -19,8 +19,8 @@ LAT (Language Analysis and Translation) is a (virtual) group at NLP Center, Tenc
 
 #### Interns
 - Xueliang Zhao (M.S. at Peking, 05/2021 - )
-
-
+- Wei Shao (Phd student at CityU HK, 09/2021 - )
+- Hongkun Hao (Undergraduate at SHJT, 11/2021 - )
 
 ## Opening Positions
 
