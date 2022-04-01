@@ -14,7 +14,7 @@ LAT (Language Analysis and Translation) is a (virtual) group at NLP Center, Tenc
 
 #### Researchers
 - [Lemao Liu](index.md)
-- Guoping Huang
+- [Guoping Huang](https://scholar.google.co.jp/citations?user=xSkkA7UAAAAJ&hl=en)
 
 
 #### Interns
