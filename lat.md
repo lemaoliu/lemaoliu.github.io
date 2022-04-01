@@ -43,6 +43,8 @@ The LAT group regularly holds a reading group on NLP and its related fields, in 
 ### Colleagues
 - [Yangming Li](http://leepleased.github.io/) (08/2020 - 03/2022)
 - Huayang Li (08/2017 - 07/2021)
+- Conghui Zhu (Tencent Rhino-Bird visiting prof. from HIT, 06/2019 - 01/2020)
+
 
 ### Interns
 - Qu Cui  (M.S. at Nanjing Univ., 06/2020 - 07/2021)
@@ -62,5 +64,5 @@ The LAT group regularly holds a reading group on NLP and its related fields, in 
 - Mengzhou Xia (undergraduate student at Fudan, 04/2018 - 08/2018; now phd student at Princeton)
 - Yu Liu (phd student at HIT, 04/2018 - 11/2018)
 - Lianhui Qin (graduate student at SHJT, 07/2017 - 09/2017; now phd student at UW) 
-- Conghui Zhu (Tencent Rhino-Bird visiting prof. from HIT, 06/2019 - 01/2020)
+
 
