@@ -48,6 +48,7 @@ The LAT group regularly holds a reading group on NLP and its related fields, in 
 
 ### Interns
 - Qu Cui  (M.S. at Nanjing Univ., 06/2020 - 07/2021)
+- Yubin Ruan (M.S. at HIT, 06/2021 - 02/2022)
 - Jiahao Xu (Phd student at NTU, 08/2021 - 02/2022)
 - Jiannan Xiang (undergraduate student at USTC, 08/2020 - 09/2021)
 - Zexin Lu (PhD at PolyU HK, 10/2020 - 08/2021)
