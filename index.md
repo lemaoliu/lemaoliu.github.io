@@ -57,7 +57,8 @@ It is my pleasure and great honor to work with the following smart students.
 
 
 #### Past Interns/Students
-
+- Yubin Ruan (M.S. at HIT, 06/2021 - 02/2022, 1 NAACL)
+- Jiahao Xu (Phd student at NTU, 08/2021 - 02/2022, 1 NAACL)
 - Yanling Xiao (Co-advised with Guoping, master student at Nanjing Univ., 07/2020 - 02/2022, 1 ACL)
 - Yibin Liu (engineering intern, master student at Peking Shenzhen, 11/2020 - 02/2022, 1 EMNLP)
 - Qiuxiang He (Co-advised with Guoping, Southwest Univ., 07/2020 - 12/2021, 1 ACL)
