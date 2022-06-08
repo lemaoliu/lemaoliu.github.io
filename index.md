@@ -10,6 +10,9 @@ I am currently a principal researcher at Tencent AI Lab, working on (human-machi
 I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near Poyang Lake, the largest freshwater lake in China. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions of Prof. [Tiejun Zhao](http://encs.hit.edu.cn/2016/0229/c5511a144140/page.htm) at HIT and Dr. [Taro Watanabe](https://sites.google.com/site/tarowtnb/) at NICT. After that, I was a postdoc researcher at the City University of New York, working with Prof. [Liang Huang](https://web.engr.oregonstate.edu/~huanlian/); and then I was a researcher at NICT Japan between Sept. 2014 and March 2017. 
 
 ## News
+- 06/2022: Area Chair at EMNLP 2022.
+- 04/2022: Area Chair at NLPCC 2022.
+- 03/2022: Tutorials accepted by IJCAI 2022 and SIGIR 2022.
 - 02/2022: Five papers accepted by ACL 2022.
 - 11/2021: Four papers accepted by EMNLP 2021.
 - 07/2021: Outstanding Paper Award at ACL 2021. 
