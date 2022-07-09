@@ -13,8 +13,7 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 - 06/2022: Area Chair at EMNLP 2022.
 - 04/2022: Area Chair at NLPCC 2022.
 - 03/2022: Tutorials accepted by [IJCAI 2022](https://ijcai-22.org/tutorials/) and [SIGIR 2022](https://sigir.org/sigir2022/program/tutorials/).
-- 03/2022: One paper accepted by NAACL 2022.
-- 02/2022: Five papers accepted by ACL 2022.
+- 02/2022: Five papers accepted by ACL 2022 and one paper by NAACL 2022.
 - 11/2021: Four papers accepted by EMNLP 2021.
 - 07/2021: Outstanding Paper Award at ACL 2021. 
 - 05/2021: Seven papers accepted by ACL 2021. 
