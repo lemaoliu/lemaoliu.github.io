@@ -26,10 +26,10 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 I have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
 
 ## Professional Activities
-- Session Chairs (ACL 2021; IJCAI 2019)
-- Senior Program Committee (IJCAI 2021)
-- (Publication) Co-chair (Findings of EMNLP 2020)
-- Standing Reviewers (Computational Linguistics, Transaction of ACL)
+- Area Chair (or SPC): IJCAI 2021, EMNLP 2022. 
+- Session Chairs: IJCAI 2019, ACL 2021.
+- Publication Chair: Findings of EMNLP 2020.
+- Standing Reviewers: Computational Linguistics, Transaction of ACL.
 
 ## Selected Publications
 #### For full publication list, please check [publication page](publications.md).
