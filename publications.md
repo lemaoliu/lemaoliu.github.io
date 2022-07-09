@@ -10,6 +10,7 @@
 - Jiannan Xiang, Huayang Li, Defu Lian, Guoping Huang, Taro Watanabe, and Lemao Liu. Visualizing the Relationship Between Encoded Linguistic Information and Task Performance. Proceedings of ACL 2022: Findings.
 
 - Jiannan Xiang, Huayang Li, Yahui Liu, Lemao Liu, Guoping Huang, Defu Lian, and Shuming Shi. Investigating Data Variance in Evaluations of Automatic Machine Translation Metrics. Proceedings of ACL 2022: Findings (Short).
+- Jiahao Xu, Yubin Ruan, Wei Bi, Guoping Huang, Shuming Shi, Lihui Chen, Lemao Liu. On Synthetic Data for Back Translation. Proceedings of NAACL 2022. 
 
 ## 2021
 - Jing Qian, Yibin Liu, Lemao Liu, Yangming Li, Haiyun Jiang, Haisong Zhang and Shuming Shi. Fine-grained Entity Typing without Knowledge Base. Proceedings of EMNLP 2021. 
