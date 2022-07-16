@@ -1,5 +1,7 @@
 
 # Publications
+- Jiahao Xu, Yubin Ruan, Wei Bi, Guoping Huang, Shuming Shi, Lihui Chen, Lemao Liu. On Synthetic Data for Back Translation. Proceedings of NAACL 2022. 
+
 - Yanling Xiao, Lemao Liu, Guoping Huang, Qu Cui, Shujian Huang, Shuming Shi, and Jiajun Chen. BiTIIMT: A Bilingual Text-Infilling Method for Interactive Machine Translation. Proceedings of ACL 2022.
 
 - Yangming Li, Lemao Liu, and Shuming Shi. Rethinking Negative Sampling for Handling Missing Entity Annotations. Proceedings of ACL 2022.
