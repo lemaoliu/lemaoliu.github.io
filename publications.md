@@ -11,7 +11,15 @@
 
 - Jiannan Xiang, Huayang Li, Yahui Liu, Lemao Liu, Guoping Huang, Defu Lian, and Shuming Shi. Investigating Data Variance in Evaluations of Automatic Machine Translation Metrics. Proceedings of ACL 2022: Findings (Short).
 
-- Jiahao Xu, Yubin Ruan, Wei Bi, Guoping Huang, Shuming Shi, Lihui Chen, Lemao Liu. On Synthetic Data for Back Translation. Proceedings of NAACL 2022. 
+- Lingfeng Shen, Lemao Liu, Haiyun Jiang and Shuming Shi. On the Evaluation Metrics for Paraphrase Generation. Proceedings of EMNLP 2022. [[code](https://github.com/shadowkiller33/ParaScore)]
+
+- Xueliang Zhao, Lemao Liu, Tingchen Fu, Shuming Shi, Dongyan Zhao and Rui Yan. Towards Efficient Dialogue Pre-training with Transferable and Interpretable Latent Structure. Proceedings of EMNLP 2022. 
+
+- Xin Cheng, Shen Gao, Lemao Liu, Dongyan Zhao and Rui Yan. Neural Machine Translation with Contrastive Translation Memories. Proceedings of EMNLP 2022.
+
+- Yi Chen, Haiyun Jiang, Lemao Liu, Rui Wang, Shuming Shi and Ruifeng Xu. MCPG: A Flexible Multi-Level Controllable Framework for Unsupervised Paraphrase Generation. Proceedings of EMNLP 2022: Findings.
+
+- Jiahao Xu, Yubin Ruan, Wei Bi, Guoping Huang, Shuming Shi, Lihui Chen, Lemao Liu. On Synthetic Data for Back Translation. Proceedings of NAACL 2022.  [[code](https://github.com/Jiahao004/Data-for-BT)]
 
 ## 2021
 - Jing Qian, Yibin Liu, Lemao Liu, Yangming Li, Haiyun Jiang, Haisong Zhang and Shuming Shi. Fine-grained Entity Typing without Knowledge Base. Proceedings of EMNLP 2021. 
