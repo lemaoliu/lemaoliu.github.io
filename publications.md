@@ -1,4 +1,6 @@
-# Publications
+# Publications (Data and Resources)
+
+The data and resources for some papers are listed accordingly. 
 
 ## 2022 
 - Yanling Xiao, Lemao Liu, Guoping Huang, Qu Cui, Shujian Huang, Shuming Shi, and Jiajun Chen. BiTIIMT: A Bilingual Text-Infilling Method for Interactive Machine Translation. Proceedings of ACL 2022.
@@ -32,7 +34,7 @@
 
 - Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu. Neural Machine Translation with Monolingual Translation Memory. Proceedings of ACL 2021.  (<span style="color:blue">Outstanding Paper Award</span>) [[code](https://github.com/lemaoliu/copyisallyouneed-1)]
 
-- Huayang Li, Lemao Liu, Guoping Huang and Shuming Shi. GWLAN: General Word-Level AutocompletioN for Computer-Aided Translation. Proceedings of ACL 2021. 
+- Huayang Li, Lemao Liu, Guoping Huang and Shuming Shi. GWLAN: General Word-Level AutocompletioN for Computer-Aided Translation. Proceedings of ACL 2021. [[data]( https://github.com/ghrua/gwlan)] 
 
 - Qiuxiang He, Guoping Huang, Qu Cui, Li Li and Lemao Liu. Fast and Accurate Neural Machine Translation with Translation Memory. Proceedings of ACL 2021. 
 
