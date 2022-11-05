@@ -26,11 +26,11 @@
 
 - Yi Chen, Haiyun Jiang, Lemao Liu, Shuming Shi, Chuang Fan, Min Yang and Ruifeng Xu. An Empirical Study on Multiple Information Sources for Zero-shot Fine-grained Entity Typing. Proceedings of EMNLP 2021. 
 
-- Yangming Li, Lemao Liu and Shuming Shi. Segmenting Natural Language Sentences via Lexical Unit Analysis. Proceedings of EMNLP 2021: Findings. (short) 
+- Yangming Li, Lemao Liu and Shuming Shi. Segmenting Natural Language Sentences via Lexical Unit Analysis. Proceedings of EMNLP 2021: Findings. (short) [[code](https://github.com/LeePleased/LUA)] 
 
 - Yu Feng, Jing Zhang, Gaole He, Wayne Xin Zhao, Lemao Liu, Quan Liu, Cuiping Li and Hong Chen. A Pretraining Numerical Reasoning Model for Ordinal Constrained Question Answering on Knowledge Base. Proceedings of EMNLP 2021: Findings. 
 
-- Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu. Neural Machine Translation with Monolingual Translation Memory. Proceedings of ACL 2021.  (<span style="color:blue">Outstanding Paper Award</span>)
+- Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu. Neural Machine Translation with Monolingual Translation Memory. Proceedings of ACL 2021.  (<span style="color:blue">Outstanding Paper Award</span>) [[code](https://github.com/lemaoliu/copyisallyouneed-1)]
 
 - Huayang Li, Lemao Liu, Guoping Huang and Shuming Shi. GWLAN: General Word-Level AutocompletioN for Computer-Aided Translation. Proceedings of ACL 2021. 
 
@@ -40,13 +40,13 @@
 
 - Zhangming Chan, Lemao Liu, Juntao Li, Haisong Zhang, Dongyan Zhao, Shuming Shi and Rui Yan. Enhancing the Open-Domain Dialogue Evaluation in Latent Space. Proceedings of ACL 2021: Findings. 
 
-- Jiannan Xiang, Yahui Liu, Deng Cai, Huayang Li, Defu Lian and Lemao Liu. Assessing Dialogue Systems with Distribution Distances. Proceedings of ACL 2021: Findings. (short) 
+- Jiannan Xiang, Yahui Liu, Deng Cai, Huayang Li, Defu Lian and Lemao Liu. Assessing Dialogue Systems with Distribution Distances. Proceedings of ACL 2021: Findings. (short) [[code](https://github.com/lemaoliu/frechet-bert-distance)]
 
-- Lemao Liu, Haisong Zhang, Haiyun Jiang, Yangming Li, Enbo Zhao, Kun Xu, Linfeng Song, Suncong Zheng, Botong Zhou, dick zhu, Xiao Feng, Tao Chen, Tao Yang, Dong Yu, Feng Zhang, ZhanHui Kang and Shuming Shi. TexSmart: A System for Enhanced Natural Language Understanding. Proceedings of ACL 2021: Demo. 
+- Lemao Liu, Haisong Zhang, Haiyun Jiang, Yangming Li, Enbo Zhao, Kun Xu, Linfeng Song, Suncong Zheng, Botong Zhou, dick zhu, Xiao Feng, Tao Chen, Tao Yang, Dong Yu, Feng Zhang, ZhanHui Kang and Shuming Shi. TexSmart: A System for Enhanced Natural Language Understanding. Proceedings of ACL 2021: Demo. [[sdk](https://ai.tencent.com/ailab/nlp/texsmart/zh/download.html)] 
 
-- Yangming Li, Lemao Liu and Kaisheng Yao. Neural Sequence Segmentation as Determining the Leftmost Segments. Proceedings of NAACL 2021. 
+- Yangming Li, Lemao Liu and Kaisheng Yao. Neural Sequence Segmentation as Determining the Leftmost Segments. Proceedings of NAACL 2021. [[code](https://github.com/LeePleased/LeftmostSeg)]
 
-- Yangming Li, Lemao Liu and Shuming Shi. Empirical Analysis of Unlabeled Entity Problem in Named Entity Recognition. Proceedings of ICLR 2021. 
+- Yangming Li, Lemao Liu and Shuming Shi. Empirical Analysis of Unlabeled Entity Problem in Named Entity Recognition. Proceedings of ICLR 2021. [[code](https://github.com/lemaoliu/NegSampling-NER)]
 
 - Xintong Li, Lemao Liu, Zhaopeng Tu, Guanlin Li, Max Meng and Shuming Shi. Attending from Foresight: A Novel Attention Mechanism for Neural Machine Translation. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2021.
 
@@ -61,7 +61,7 @@
 
 - Qian Wang, Jiajun Zhang, Lemao Liu, Guoping Huang, Chengqing Zong. Touch Editing: A Flexible One-Time Interaction Approach for Translation. Proceedings of AACL-IJCNLP 2020.
 
-- Huayang Li, Guoping Huang, Deng Cai, Lemao Liu. Neural Machine Translation with Noisy Lexical Constraints. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2020. 
+- Huayang Li, Guoping Huang, Deng Cai, Lemao Liu. Neural Machine Translation with Noisy Lexical Constraints. In Journal of IEEE/ACM Trans. on Audio, Speech and Language Processing, 2020. [[data](https://github.com/lemaoliu/translation-datasets-taslp)]
 
 - Lemao Liu, Andrew Finch, Masao Utiyama and Eiichiro Sumita. Agreement on Target-bidirectional Recurrent Neural Networks for Sequence-to-Sequence Learning. In Journal of Artificial Intelligence Research, 2020.
 
