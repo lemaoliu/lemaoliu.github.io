@@ -34,7 +34,10 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 
 ## Selected Publications
 #### For full publication list, please check [publication page](publications.md), where related resources (data and codes) are available for some papers.
-- Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu. Neural Machine Translation with Monolingual Translation Memory. Proceedings of ACL 2021. (Outstanding Paper Award)
+
+- Lingfeng Shen, Lemao Liu, Haiyun Jiang and Shuming Shi. On the Evaluation Metrics for Paraphrase Generation. Proceedings of EMNLP 2022. [[code](https://github.com/shadowkiller33/ParaScore)]
+
+- Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu. Neural Machine Translation with Monolingual Translation Memory. Proceedings of ACL 2021. (Outstanding Paper Award) [[code](https://github.com/lemaoliu/copyisallyouneed-1)]
 
 - Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi. Evaluating Explanation Methods for Neural Machine Translation. Proceedings of ACL 2020.
 
