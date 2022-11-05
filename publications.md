@@ -22,7 +22,7 @@
 - Jiahao Xu, Yubin Ruan, Wei Bi, Guoping Huang, Shuming Shi, Lihui Chen, Lemao Liu. On Synthetic Data for Back Translation. Proceedings of NAACL 2022.  [[code](https://github.com/Jiahao004/Data-for-BT)]
 
 ## 2021
-- Jing Qian, Yibin Liu, Lemao Liu, Yangming Li, Haiyun Jiang, Haisong Zhang and Shuming Shi. Fine-grained Entity Typing without Knowledge Base. Proceedings of EMNLP 2021. 
+- Jing Qian, Yibin Liu, Lemao Liu, Yangming Li, Haiyun Jiang, Haisong Zhang and Shuming Shi. Fine-grained Entity Typing without Knowledge Base. Proceedings of EMNLP 2021. [[data](https://github.com/lemaoliu/fet-data)]
 
 - Yi Chen, Haiyun Jiang, Lemao Liu, Shuming Shi, Chuang Fan, Min Yang and Ruifeng Xu. An Empirical Study on Multiple Information Sources for Zero-shot Fine-grained Entity Typing. Proceedings of EMNLP 2021. 
 
@@ -77,7 +77,7 @@ Proceedings of AAAI 2020.
 
 - Mengzhou Xia, Guoping Huang, Lemao Liu, and Shuming Shi. Graph-based Translation Memory for Neural Machine Translation. Proceedings of AAAI 2019. 
 
-- Lianhui Qin, Lemao Liu, Victoria Bi, Yan Wang, Xiaojiang Liu, Zhiting Hu, Hai Zhao and Shuming Shi. Automatic Article Commenting: the Task and Dataset. Proceedings of ACL 2018. (short)
+- Lianhui Qin, Lemao Liu, Victoria Bi, Yan Wang, Xiaojiang Liu, Zhiting Hu, Hai Zhao and Shuming Shi. Automatic Article Commenting: the Task and Dataset. Proceedings of ACL 2018. (short) [[data](https://github.com/lemaoliu/article_commenting)]
 
 - Xintong Li, Lemao Liu, Zhaopeng Tu, Max Meng and Shuming Shi. Target foresight based attention for neural machine translation. Proceedings of NAACL 2018.
 
