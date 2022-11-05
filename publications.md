@@ -101,7 +101,7 @@ Proceedings of AAAI 2020.
 
 - Peng Shen, Xugang Lu, Lemao Liu, Hisashi Kawai. Local Fisher Discriminant Analysis for Spoken Language Identification. In Proceedings of ICASSP 2016. [[paper](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7472794)]
 
-- Lemao Liu, Andrew Finch, Masao Utiyama, Eiichiro Sumita. Agreement on Target-bidirectional LSTMs for Sequence-to-Sequence Learning. In Proceedings of AAAI 2016. [[paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12028)[code](https://github.com/lemaoliu/Agtarbidir)] 
+- Lemao Liu, Andrew Finch, Masao Utiyama, Eiichiro Sumita. Agreement on Target-bidirectional LSTMs for Sequence-to-Sequence Learning. In Proceedings of AAAI 2016. [[paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12028)] [[code](https://github.com/lemaoliu/Agtarbidir)]
 
 - Andrew Finch, Lemao Liu, Xiaolin Wang, Eiichiro Sumita (2015). Neural Network Transduction Models in Transliteration Generation. In Proceedings of ACL Workshops on NEWS 2015. [[paper](http://www.aclweb.org/anthology/W15-3909)]
 
