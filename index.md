@@ -33,7 +33,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 - Standing Reviewers: Computational Linguistics, Transaction of ACL.
 
 ## Selected Publications
-#### For full publication list, please check [publication page](publications.md).
+#### For full publication list, please check [publication page](publications.md), where related resources (data and codes) are available for some papers.
 - Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu. Neural Machine Translation with Monolingual Translation Memory. Proceedings of ACL 2021. (Outstanding Paper Award)
 
 - Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi. Evaluating Explanation Methods for Neural Machine Translation. Proceedings of ACL 2020.
