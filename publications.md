@@ -1,6 +1,6 @@
 # Publications (Data and Resources)
 
-### Some papers are accompanied with data and resources for implementations, and please check them. 
+### Some data and resources are available for some papers, and please check them. 
 
 ## 2022 
 - Yanling Xiao, Lemao Liu, Guoping Huang, Qu Cui, Shujian Huang, Shuming Shi, and Jiajun Chen. BiTIIMT: A Bilingual Text-Infilling Method for Interactive Machine Translation. Proceedings of ACL 2022.
