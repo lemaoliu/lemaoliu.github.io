@@ -44,7 +44,7 @@
 
 - Jiannan Xiang, Yahui Liu, Deng Cai, Huayang Li, Defu Lian and Lemao Liu. Assessing Dialogue Systems with Distribution Distances. Proceedings of ACL 2021: Findings. (short) [[code](https://github.com/lemaoliu/frechet-bert-distance)]
 
-- Lemao Liu, Haisong Zhang, Haiyun Jiang, Yangming Li, Enbo Zhao, Kun Xu, Linfeng Song, Suncong Zheng, Botong Zhou, dick zhu, Xiao Feng, Tao Chen, Tao Yang, Dong Yu, Feng Zhang, ZhanHui Kang and Shuming Shi. TexSmart: A System for Enhanced Natural Language Understanding. Proceedings of ACL 2021: Demo. [[sdk](https://ai.tencent.com/ailab/nlp/texsmart/zh/download.html)] [fine-grained-ner-data](https://github.com/lemaoliu/fg-ner-data)
+- Lemao Liu, Haisong Zhang, Haiyun Jiang, Yangming Li, Enbo Zhao, Kun Xu, Linfeng Song, Suncong Zheng, Botong Zhou, dick zhu, Xiao Feng, Tao Chen, Tao Yang, Dong Yu, Feng Zhang, ZhanHui Kang and Shuming Shi. TexSmart: A System for Enhanced Natural Language Understanding. Proceedings of ACL 2021: Demo. [[sdk](https://ai.tencent.com/ailab/nlp/texsmart/zh/download.html)] [[fine-grained-ner-data](https://github.com/lemaoliu/fg-ner-data)]
 
 - Yangming Li, Lemao Liu and Kaisheng Yao. Neural Sequence Segmentation as Determining the Leftmost Segments. Proceedings of NAACL 2021. [[code](https://github.com/LeePleased/LeftmostSeg)]
 
