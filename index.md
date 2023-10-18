@@ -58,7 +58,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 ## Collaborators
 
 ### Interns/Students
-It is my pleasure and great honor to work with the following smart students.
+It is my pleasure and great honor to work with the following excellent students.
 
 #### Current Interns/Students
 - Xueliang Zhao (Tencent Rhino-Bird Scholar, master student at Peking, 08/2021 - )
