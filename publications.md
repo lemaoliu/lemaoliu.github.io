@@ -9,19 +9,19 @@
 
 - Xingyu Chen, Lemao Liu, Guoping Huang, Zhirui Zhang, Mingming Yang, Shuming Shi, Rui Wang. Rethinking Word-Level Auto-Completion in Computer-Aided Translation. Proceedings of EMNLP 2023.
 
-- Jiahao Xu, Wei Shao, Lihui Chen, Lemao Liu. SimCSE++: Improving Contrastive Learning for Sentence Embeddings from Two Perspectives. Proceedings of EMNLP 2023.
+- Jiahao Xu, Wei Shao, Lihui Chen, Lemao Liu. SimCSE++: Improving Contrastive Learning for Sentence Embeddings from Two Perspectives. Proceedings of EMNLP 2023. [[code](https://github.com/Jiahao004/SimCSE-plus-plus)]
   
-- Jiahao Xu, Wei Shao, Lihui Chen, Lemao Liu. DistillCSE: Distilled Contrastive Learning for Sentence Embeddings. Proceedings of EMNLP 2023: Findings.
+- Jiahao Xu, Wei Shao, Lihui Chen, Lemao Liu. DistillCSE: Distilled Contrastive Learning for Sentence Embeddings. Proceedings of EMNLP 2023: Findings. [[code](https://github.com/Jiahao004/DistillCSE)]
   
-- Junjie Wu, Lemao Liu, Dit-Yan Yeung. Towards General Error Diagnosis via Behavioral Testing in Machine Translation. Proceedings of EMNLP 2023: Findings.
+- Junjie Wu, Lemao Liu, Dit-Yan Yeung. Towards General Error Diagnosis via Behavioral Testing in Machine Translation. Proceedings of EMNLP 2023: Findings. [[cide](https://github.com/wujunjie1998/BTPGBT)]
   
 - Tingchen Fu, Xueliang Zhao, Lemao Liu, Rui Yan. Logic Unveils Truth, While Disguise Obscures It: Transition Logic Augmented Response Selection for Multi-Turn Dialogue. EMNLP 2023: Findings.
   
 - Guoxin Yu, Lemao Liu, Haiyun Jiang, Shuming Shi, Xiang Ao. Retrieval-Augmented Few-shot Text Classification. Proceedings of EMNLP 2023: Findings.
   
-- Ruize Gao, Zhirui Zhang, Yichao Du, Lemao Liu, Rui Wang. Nearest Neighbor Machine Translation is Meta-Optimizer on Output Projection Layer. Proceedings of EMNLP 2023.
+- Ruize Gao, Zhirui Zhang, Yichao Du, Lemao Liu, Rui Wang. Nearest Neighbor Machine Translation is Meta-Optimizer on Output Projection Layer. Proceedings of EMNLP 2023. [[code](https://github.com/RuizGao/knnmt-meta-optimizer)]
   
-- Xu Huang, Zhirui Zhang, Ruize Gao, Yichao Du, Lemao Liu, Gouping Huang, Shuming Shi, Jiajun Chen, Shujian Huang. IMTLab: An Open-Source Platform for Building, Evaluating, and Diagnosing Interactive Machine Translation Systems. Proceedings of EMNLP 2023.
+- Xu Huang, Zhirui Zhang, Ruize Gao, Yichao Du, Lemao Liu, Gouping Huang, Shuming Shi, Jiajun Chen, Shujian Huang. IMTLab: An Open-Source Platform for Building, Evaluating, and Diagnosing Interactive Machine Translation Systems. Proceedings of EMNLP 2023. [[code](https://github.com/xuuhuang/imtlab)]
   
 - Xin Cheng, Di Luo, Xiuying Chen, Lemao Liu, Dongyan Zhao, Rui Yan. Lift Yourself Up: Retrieval-augmented Text Generation with Self Memory. Proceedings of NeurIPS 2023.
   
@@ -41,7 +41,7 @@
   
 - Zhen Zhang, Mengting Hu, Shiwan Zhao, Minlie Huang, Haotian Wang, Lemao Liu, Zhirui Zhang, Zhe Liu, Bingzhe Wu. E-NER: Evidential Deep Learning for Trustworthy Named Entity Recognition. Proceedings of ACL 2023: Findings.
 
-- Wenye Lin, Yangming Li, Lemao Liu, Shuming Shi, Hai-Tao Zheng. A Simple Yet Effective Approach to Structured Knowledge Distillation. Proceedings of ICASSP 2023.
+- Wenye Lin, Yangming Li, Lemao Liu, Shuming Shi, Hai-Tao Zheng. A Simple Yet Effective Approach to Structured Knowledge Distillation. Proceedings of ICASSP 2023. [[code](https://github.com/Linwenye/Efficient-KD)]
 
 - Yichao Du, Zhirui Zhang, Bingzhe Wu, Lemao Liu, Tong Xu, Enhong Chen. Federated Nearest Neighbor Machine Translation. Proceedings of ICLR 2023.
   
