@@ -1,6 +1,6 @@
-# Publications (Data and Resources)
+# Publications
 
-### Some data and resources are available for some papers, and please check them. 
+### Some code and data are available for some papers, and please check them. 
 
 ## 2023
 - Cheng Yang, Guoping Huang, Mo Yu, Zhirui Zhang, Siheng Li, Mingming Yang, Shuming Shi, Yujiu Yang, Lemao Liu. An Energy-based Model for Word-level AutoCompletion in Computer-aided Translation. Transactions of ACL 2023.
