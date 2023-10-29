@@ -45,6 +45,8 @@
 
 - Yichao Du, Zhirui Zhang, Bingzhe Wu, Lemao Liu, Tong Xu, Enhong Chen. Federated Nearest Neighbor Machine Translation. Proceedings of ICLR 2023.
   
+- Lemao Liu, Francisco Casacuberta, George Foster, Guoping Huang, Philipp Koehn, Geza Kovacs, Shuming Shi, Taro Watanabe, Chengqing Zong. Findings of the Word-Level AutoCompletion Shared Task in WMT 2023. Proceedings of WMT 2023.
+  
 ## 2022 
 - Yanling Xiao, Lemao Liu, Guoping Huang, Qu Cui, Shujian Huang, Shuming Shi, and Jiajun Chen. BiTIIMT: A Bilingual Text-Infilling Method for Interactive Machine Translation. Proceedings of ACL 2022.
 
@@ -65,6 +67,8 @@
 - Yi Chen, Haiyun Jiang, Lemao Liu, Rui Wang, Shuming Shi and Ruifeng Xu. MCPG: A Flexible Multi-Level Controllable Framework for Unsupervised Paraphrase Generation. Proceedings of EMNLP 2022: Findings.
 
 - Jiahao Xu, Yubin Ruan, Wei Bi, Guoping Huang, Shuming Shi, Lihui Chen, Lemao Liu. On Synthetic Data for Back Translation. Proceedings of NAACL 2022.  [[code](https://github.com/Jiahao004/Data-for-BT)]
+
+- Francisco Casacuberta, George Foster, Guoping Huang, Philipp Koehn, Geza Kovacs, Lemao Liu, Shuming Shi, Taro Watanabe, Chengqing Zong. Findings of the Word-Level AutoCompletion Shared Task in WMT 2022. Proceedings of WMT 2022.
 
 ## 2021
 - Jing Qian, Yibin Liu, Lemao Liu, Yangming Li, Haiyun Jiang, Haisong Zhang and Shuming Shi. Fine-grained Entity Typing without Knowledge Base. Proceedings of EMNLP 2021. [[data](https://github.com/lemaoliu/fet-data)]
