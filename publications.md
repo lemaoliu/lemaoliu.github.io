@@ -25,7 +25,7 @@
   
 - Xin Cheng, Di Luo, Xiuying Chen, Lemao Liu, Dongyan Zhao, Rui Yan. Lift Yourself Up: Retrieval-augmented Text Generation with Self Memory. Proceedings of NeurIPS 2023.
   
-- Repetition In Repetition Out: Towards Understanding Neural Text Degeneration from the Data Perspective. Huayang Li, Tian Lan, Zihao Fu, Deng Cai, Lemao Liu, Nigel Collier, Taro Watanabe, Yixuan Su. Proceedings of NeurIPS 2023.
+- Repetition In Repetition Out: Towards Understanding Neural Text Degeneration from the Data Perspective. Huayang Li, Tian Lan, Zihao Fu, Deng Cai, Lemao Liu, Nigel Collier, Taro Watanabe, Yixuan Su. Proceedings of NeurIPS 2023. [[code](https://github.com/gmftbyGMFTBY/Rep-Dropout)]
   
 - Huan Ma, Changqing Zhang, Yatao Bian, Lemao Liu, Zhirui Zhang, Peilin Zhao, Shu Zhang, Huazhu Fu, Qinghua Hu, Bingzhe Wu. Fairness-guided Few-shot Prompting for Large Language Models. Proceedings of NeurIPS 2023.
   
