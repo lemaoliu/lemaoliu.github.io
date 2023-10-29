@@ -7,7 +7,7 @@
   
 - Yinya Huang, Lemao Liu, Kun Xu, Meng Fang, Liang Lin, Xiaodan Liang. Discourse-Aware Graph Networks for Textual Logical Reasoning. IEEE Transactions on Pattern Analysis and Machine Intelligence 2023.
 
-- Xingyu Chen, Lemao Liu, Guoping Huang, Zhirui Zhang, Mingming Yang, Shuming Shi, Rui Wang. Rethinking Word-Level Auto-Completion in Computer-Aided Translation. Proceedings of EMNLP 2023.
+- Xingyu Chen, Lemao Liu, Guoping Huang, Zhirui Zhang, Mingming Yang, Shuming Shi, Rui Wang. Rethinking Word-Level Auto-Completion in Computer-Aided Translation. Proceedings of EMNLP 2023. [[code](https://github.com/galaxychen/wlac-joint-training)]
 
 - Jiahao Xu, Wei Shao, Lihui Chen, Lemao Liu. SimCSE++: Improving Contrastive Learning for Sentence Embeddings from Two Perspectives. Proceedings of EMNLP 2023. [[code](https://github.com/Jiahao004/SimCSE-plus-plus)]
   
@@ -29,7 +29,7 @@
   
 - Huan Ma, Changqing Zhang, Yatao Bian, Lemao Liu, Zhirui Zhang, Peilin Zhao, Shu Zhang, Huazhu Fu, Qinghua Hu, Bingzhe Wu. Fairness-guided Few-shot Prompting for Large Language Models. Proceedings of NeurIPS 2023.
   
-- Tingchen Fu, Xueliang Zhao, Lemao Liu, Rui Yan. On the Compositional Generalization in Versatile Open-domain Dialogue. Proceedings of ACL 2023.
+- Tingchen Fu, Xueliang Zhao, Lemao Liu, Rui Yan. On the Compositional Generalization in Versatile Open-domain Dialogue. Proceedings of ACL 2023. [[code](https://github.com/TingchenFu/ACL23-ModularDialogue)]
   
 - Xueliang Zhao, Tingchen Fu, Lemao Liu, Lingpeng Kong, Shuming Shi, Rui Yan. SORTIE: Dependency-Aware Symbolic Reasoning for Logical Data-to-text Generation. Proceedings of ACL 2023: Findings.
 
