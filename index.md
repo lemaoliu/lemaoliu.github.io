@@ -28,9 +28,11 @@ I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near P
 - 04/2020: Two papers accepted by ACL 2020.
 - 02/2020: One paper accepted by JAIR.
 
-
+<!---
 ## Opening Positions
 I have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
+--->
+
 
 ## Professional Activities
 - Area Chair (or SPC): IJCAI 2021, EMNLP 2022. 
