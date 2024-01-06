@@ -13,7 +13,7 @@
   
 - Jiahao Xu, Wei Shao, Lihui Chen, Lemao Liu. DistillCSE: Distilled Contrastive Learning for Sentence Embeddings. Proceedings of EMNLP 2023: Findings. [[code](https://github.com/Jiahao004/DistillCSE)]
   
-- Junjie Wu, Lemao Liu, Dit-Yan Yeung. Towards General Error Diagnosis via Behavioral Testing in Machine Translation. Proceedings of EMNLP 2023: Findings. [[cide](https://github.com/wujunjie1998/BTPGBT)]
+- Junjie Wu, Lemao Liu, Dit-Yan Yeung. Towards General Error Diagnosis via Behavioral Testing in Machine Translation. Proceedings of EMNLP 2023: Findings. [[code](https://github.com/wujunjie1998/BTPGBT)]
   
 - Tingchen Fu, Xueliang Zhao, Lemao Liu, Rui Yan. Logic Unveils Truth, While Disguise Obscures It: Transition Logic Augmented Response Selection for Multi-Turn Dialogue. EMNLP 2023: Findings.
   
