@@ -3,7 +3,7 @@
 
 <img align="left" src="homepage_lemao.jpg" width=150 height=180 alt="a photo" style="padding-right:10px">
 
-I am currently a principal researcher at Tencent AI Lab, working on (human-machine interactive) machine translation, parsing, natural language processing and their related topics. I can be reached through NAME at gmail dot com (NAME=lemaoliu).
+I am currently a principal researcher at Tencent, working on natural language processing, machine translation, large language models and their related topics. I can be reached through NAME at gmail dot com (NAME=lemaoliu).
 <!---
 I am a member of [LAT group](lat.md) and you can reach me through NAME at gmail dot com (NAME=lemaoliu).
 --->
