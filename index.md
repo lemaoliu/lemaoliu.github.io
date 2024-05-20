@@ -13,6 +13,7 @@ I am a member of [LAT group](lat.md) and you can reach me through NAME at gmail 
 I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near Poyang Lake, the largest freshwater lake in China. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions of Prof. [Tiejun Zhao](http://encs.hit.edu.cn/2016/0229/c5511a144140/page.htm) at HIT and Dr. [Taro Watanabe](https://sites.google.com/site/tarowtnb/) at NICT. After that, I was a postdoc researcher at the City University of New York, working with Prof. [Liang Huang](https://web.engr.oregonstate.edu/~huanlian/); and then I was a researcher at NICT Japan between Sept. 2014 and March 2017. 
 
 ## News
+- 05/2024: Six Papers accepted by ACL 2024. 
 - 10/2023: Eight Papers accepted by EMNLP 2023. 
 - 09/2023: Three papers accepted by NeurIPS 2023. 
 - 05/2023: Six papers accepted by ACL 2023.  
