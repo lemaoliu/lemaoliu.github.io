@@ -36,12 +36,11 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 
 
 ## Professional Activities
-- Senior Area Chair of ACL Rolling Review.
-- Action Editor of ACL Rolling Review.
-- Area Chair of EMNLP 2022.
-- Senior Program Committee of IJCAI 2021. 
-- Publication Chair of EMNLP 2020: Findings.
-- Standing Reviewers: Computational Linguistics, Transaction of ACL.
+- ACL Rolling Review: (Senior) Area Chair.
+- EMNLP 2022: Area Chair.
+- IJCAI 2021: Senior Program Committee. 
+- EMNLP 2020 (Findings): Publication Chair.
+- Computational Linguistics and Transaction of ACL: Standing Reviewers.
 
 ## Selected Publications
 #### For full publication list, please check [publication page](publications.md), where related resources (data and codes) are available for some papers.
