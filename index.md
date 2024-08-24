@@ -37,7 +37,8 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 
 ## Professional Activities
 - ACL Rolling Review: (Senior) Area Chair.
-- EMNLP 2022: Area Chair.
+- EMNLP 2024: Area Chair (Industry Track).
+- EMNLP 2022: Area Chair (MT Track).
 - IJCAI 2021: Senior Program Committee. 
 - EMNLP 2020 (Findings): Publication Chair.
 - Computational Linguistics and Transaction of ACL: Standing Reviewers.
