@@ -45,7 +45,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 
 ## Selected Publications
 #### For full publication list, please check [[ACL Anthology]](https://aclanthology.org/people/l/lemao-liu/) [[Google Scholar]](https://scholar.google.com/citations?user=lCvNOg4AAAAJ&hl=en) [[DBLP]](https://dblp.org/pid/41/10887.html)
-### See [publication page](publications.md) for the related resources (data and codes) are available for some papers.
+#### See [publication page](publications.md) for the related resources (data and codes) are available for some papers.
 
 - Lingfeng Shen, Lemao Liu, Haiyun Jiang and Shuming Shi. On the Evaluation Metrics for Paraphrase Generation. Proceedings of EMNLP 2022. [[code](https://github.com/shadowkiller33/ParaScore)]
 
