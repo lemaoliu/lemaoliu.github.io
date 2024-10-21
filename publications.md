@@ -1,7 +1,7 @@
 # Publications
 
 ### Some code and data are available for some papers, and please check them. 
-### For more recent publications, please check [[ACL Anthology]](https://aclanthology.org/people/l/lemao-liu/), [Google Scholar](https://scholar.google.com/citations?user=lCvNOg4AAAAJ&hl=en), [DBLP](https://dblp.org/pid/41/10887.html)
+### For more recent publications, please check [[ACL Anthology]](https://aclanthology.org/people/l/lemao-liu/) [[Google Scholar]](https://scholar.google.com/citations?user=lCvNOg4AAAAJ&hl=en), [[DBLP]](https://dblp.org/pid/41/10887.html)
 
 ## 2023
 - Cheng Yang, Guoping Huang, Mo Yu, Zhirui Zhang, Siheng Li, Mingming Yang, Shuming Shi, Yujiu Yang, Lemao Liu. An Energy-based Model for Word-level AutoCompletion in Computer-aided Translation. Transactions of ACL 2023.
