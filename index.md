@@ -45,7 +45,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 - Computational Linguistics and Transaction of ACL: Standing Reviewers.
 
 ## Selected Publications
-#### For full publication list, please check [[ACL Anthology]](https://aclanthology.org/people/l/lemao-liu/) [[Google Scholar]](https://scholar.google.com/citations?user=lCvNOg4AAAAJ&hl=en) [[DBLP]](https://dblp.org/pid/41/10887.html) and see [publications before 2024](publications.md).
+#### For full publication list, please check [[Google Scholar]](https://scholar.google.com/citations?user=lCvNOg4AAAAJ&hl=en) [[ACL Anthology]](https://aclanthology.org/people/l/lemao-liu/)  [[DBLP]](https://dblp.org/pid/41/10887.html) and see [publications before 2024](publications.md).
 
 - Lingfeng Shen, Lemao Liu, Haiyun Jiang and Shuming Shi. On the Evaluation Metrics for Paraphrase Generation. Proceedings of EMNLP 2022. [[code](https://github.com/shadowkiller33/ParaScore)]
 
