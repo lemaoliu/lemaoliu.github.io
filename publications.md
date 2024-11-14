@@ -1,7 +1,7 @@
 # Publications
 
 
-### For more recent publications, please check [[ACL Anthology]](https://aclanthology.org/people/l/lemao-liu/) [[Google Scholar]](https://scholar.google.com/citations?user=lCvNOg4AAAAJ&hl=en) [[DBLP]](https://dblp.org/pid/41/10887.html)
+### For more recent publications, please check [[Google Scholar]](https://scholar.google.com/citations?user=lCvNOg4AAAAJ&hl=en) [[ACL Anthology]](https://aclanthology.org/people/l/lemao-liu/)  [[DBLP]](https://dblp.org/pid/41/10887.html)
 
 ### Some code and data are available for some papers, and please check them. 
 
