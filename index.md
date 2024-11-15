@@ -45,8 +45,10 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 - Computational Linguistics and Transaction of ACL: Standing Reviewers.
 
 ## Publications
-#### For full publication list, please check [[Google Scholar]](https://scholar.google.com/citations?user=lCvNOg4AAAAJ&hl=en) [[ACL Anthology]](https://aclanthology.org/people/l/lemao-liu/)  [[DBLP]](https://dblp.org/pid/41/10887.html) and see [publications before 2024](publications.md).
-
+#### For full publication list, please check [[Google Scholar]](https://scholar.google.com/citations?user=lCvNOg4AAAAJ&hl=en)
+<!---
+[[ACL Anthology]](https://aclanthology.org/people/l/lemao-liu/)  [[DBLP]](https://dblp.org/pid/41/10887.html) and see [publications before 2024](publications.md).
+--->
 ### Recent Researh Related to LLM and RAG
 
 #### Large Language Models (LLM)
