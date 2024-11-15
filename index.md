@@ -65,7 +65,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 
 
 ### Retrieval Augmented Generation (RAG)
-- Huayang Li, Yixuan Su, Deng Cai, Yan Wang, and Lemao Liu. A survey on retrieval-augmented text generation. Preprints in 2023. (150+ citations)
+- Huayang Li, Yixuan Su, Deng Cai, Yan Wang, and Lemao Liu. A survey on retrieval-augmented text generation. Preprints in 2021. (100+ citations in 2024)
 - Huayang Li, Deng Cai, Zhi Qu, Qu Cui, Hidetaka Kamigaito, Lemao Liu, Taro Watanabe. Cross-lingual Contextualized Phrase Retrieval. Proceedings of EMNLP 2024: Findings.
 - Xin Cheng, Di Luo, Xiuying Chen, Lemao Liu, Dongyan Zhao, Rui Yan. Lift Yourself Up: Retrieval-augmented Text Generation with Self Memory. Proceedings of NeurIPS 2023.
 - Hongkun Hao, Guoping Huang, Lemao Liu, Zhirui Zhang, Shuming Shi, Rui Wang. Rethinking Translation Memory Augmented Neural Machine Translation. Proceedings of ACL 2023: Findings.
