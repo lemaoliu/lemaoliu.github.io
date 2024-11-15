@@ -53,7 +53,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 - Yue Zhang, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, Tingchen Fu, Xinting Huang, Enbo Zhao, Yu Zhang, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi. Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models. Preprints in 2023. (700+ citations)
 - Guoxin Yu, Lemao Liu, Mo Yu, Yue Yu, Xiang Ao. Rethinking the Evaluation of In-Context Learning for LLMs. Proceedings of EMNLP 2024.
 - Tsz Ting Chung, Leyang Cui, Lemao Liu, Xinting Huang, Shuming Shi, Dit-Yan Yeung. Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability. Proceedings of EMNLP 2024: Findings.
-- - Tingchen Fu, Lemao Liu, Deng Cai, Guoping Huang, Shuming Shi, Rui Yan. The Reasonableness Behind Unreasonable Translation Capability of Large Language Model. Proceedings of ICLR 2024.
+- Tingchen Fu, Lemao Liu, Deng Cai, Guoping Huang, Shuming Shi, Rui Yan. The Reasonableness Behind Unreasonable Translation Capability of Large Language Model. Proceedings of ICLR 2024.
 - Qihang Ai, Jiafan Li, Jincheng Dai, Jianwu Zhou, Lemao Liu, Haiyun Jiang, Shuming Shi. Advancement in Graph Understanding: A Multimodal Benchmark and Fine-Tuning of Vision-Language Models. Proceedings of ACL 2024.
 - Xueliang Zhao, Xinting Huang, Tingchen Fu, Qintong Li, Shansan Gong, Lemao Liu, Wei Bi, Lingpeng Kong. BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models. Proceedings of ACL 2024: Findings.
 - Huayang Li, Siheng Li, Deng Cai, Longyue Wang, Lemao Liu, Taro Watanabe, Yujiu Yang, Shuming Shi. TextBind: Multi-turn Interleaved Multimodal Instruction-following in the Wild. Proceedings of ACL 2024: Findings.
