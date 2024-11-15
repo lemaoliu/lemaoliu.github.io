@@ -49,7 +49,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 <!---
 [[ACL Anthology]](https://aclanthology.org/people/l/lemao-liu/)  [[DBLP]](https://dblp.org/pid/41/10887.html) and see [publications before 2024](publications.md).
 --->
-### Recent Researh Related to LLM and RAG
+### Recent Research Related to LLM and RAG
 
 #### Large Language Models (LLM)
 - Yue Zhang, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, Tingchen Fu, Xinting Huang, Enbo Zhao, Yu Zhang, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi. Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models. Preprints in 2023. (700+ citations)
