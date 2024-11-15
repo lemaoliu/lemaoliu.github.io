@@ -39,14 +39,40 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 ## Professional Activities
 - ACL Rolling Review: (Senior) Area Chair.
 - EMNLP 2024: Area Chair (Industry Track).
-- EMNLP 2022: Area Chair (MT Track).
+- EMNLP 2022: Area Chair.
 - IJCAI 2021: Senior Program Committee. 
 - EMNLP 2020 (Findings): Publication Chair.
 - Computational Linguistics and Transaction of ACL: Standing Reviewers.
 
-## Selected Publications
+## Publications
 #### For full publication list, please check [[Google Scholar]](https://scholar.google.com/citations?user=lCvNOg4AAAAJ&hl=en) [[ACL Anthology]](https://aclanthology.org/people/l/lemao-liu/)  [[DBLP]](https://dblp.org/pid/41/10887.html) and see [publications before 2024](publications.md).
 
+### Recent Researh Related to LLM and RAG
+
+#### Large Language Models (LLM)
+- Yue Zhang, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, Tingchen Fu, Xinting Huang, Enbo Zhao, Yu Zhang, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi. Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models. Preprints in 2023. (700+ citations)
+- Guoxin Yu, Lemao Liu, Mo Yu, Yue Yu, Xiang Ao. Rethinking the Evaluation of In-Context Learning for LLMs. Proceedings of EMNLP 2024.
+- Tsz Ting Chung, Leyang Cui, Lemao Liu, Xinting Huang, Shuming Shi, Dit-Yan Yeung. Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability. Proceedings of EMNLP 2024: Findings.
+- - Tingchen Fu, Lemao Liu, Deng Cai, Guoping Huang, Shuming Shi, Rui Yan. The Reasonableness Behind Unreasonable Translation Capability of Large Language Model. Proceedings of ICLR 2024.
+- Qihang Ai, Jiafan Li, Jincheng Dai, Jianwu Zhou, Lemao Liu, Haiyun Jiang, Shuming Shi. Advancement in Graph Understanding: A Multimodal Benchmark and Fine-Tuning of Vision-Language Models. Proceedings of ACL 2024.
+- Xueliang Zhao, Xinting Huang, Tingchen Fu, Qintong Li, Shansan Gong, Lemao Liu, Wei Bi, Lingpeng Kong. BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models. Proceedings of ACL 2024: Findings.
+- Huayang Li, Siheng Li, Deng Cai, Longyue Wang, Lemao Liu, Taro Watanabe, Yujiu Yang, Shuming Shi. TextBind: Multi-turn Interleaved Multimodal Instruction-following in the Wild. Proceedings of ACL 2024: Findings.
+- Tingchen Fu, Deng Cai, Lemao Liu, Shuming Shi, Rui Yan. Disperse-Then-Merge: Pushing the Limits of Instruction Tuning via Alignment Tax Reduction. Proceedings of ACL 2024: Findings.
+- Huayang Li, Tian Lan, Zihao Fu, Deng Cai, Lemao Liu, Nigel Collier, Taro Watanabe, Yixuan Su. Repetition In Repetition Out: Towards Understanding Neural Text Degeneration from the Data Perspective. Proceedings of NeurIPS 2023.
+- Huan Ma, Changqing Zhang, Yatao Bian, Lemao Liu, Zhirui Zhang, Peilin Zhao, Shu Zhang, Huazhu Fu, Qinghua Hu, Bingzhe Wu. Fairness-guided Few-shot Prompting for Large Language Models. Proceedings of NeurIPS 2023.
+
+
+### Retrieval Augmented Generation (RAG)
+- Huayang Li, Yixuan Su, Deng Cai, Yan Wang, and Lemao Liu. A survey on retrieval-augmented text generation. Preprints in 2023. (150+ citations)
+- Huayang Li, Deng Cai, Zhi Qu, Qu Cui, Hidetaka Kamigaito, Lemao Liu, Taro Watanabe. Cross-lingual Contextualized Phrase Retrieval. Proceedings of EMNLP 2024: Findings.
+- Xin Cheng, Di Luo, Xiuying Chen, Lemao Liu, Dongyan Zhao, Rui Yan. Lift Yourself Up: Retrieval-augmented Text Generation with Self Memory. Proceedings of NeurIPS 2023.
+- Hongkun Hao, Guoping Huang, Lemao Liu, Zhirui Zhang, Shuming Shi, Rui Wang. Rethinking Translation Memory Augmented Neural Machine Translation. Proceedings of ACL 2023: Findings.
+- Xin Cheng, Shen Gao, Lemao Liu, Dongyan Zhao and Rui Yan. Neural Machine Translation with Contrastive Translation Memories. Proceedings of EMNLP 2022.
+- Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu. Neural Machine Translation with Monolingual Translation Memory. Proceedings of ACL 2021. (Outstanding Paper Award) [[code](https://github.com/lemaoliu/copyisallyouneed-1)]
+- Qiuxiang He, Guoping Huang, Qu Cui, Li Li and Lemao Liu. Fast and Accurate Neural Machine Translation with Translation Memory. Proceedings of ACL 2021. 
+- Mengzhou Xia, Guoping Huang, Lemao Liu, and Shuming Shi. Graph-based Translation Memory for Neural Machine Translation. Proceedings of AAAI 2019. 
+
+<!---
 - Lingfeng Shen, Lemao Liu, Haiyun Jiang and Shuming Shi. On the Evaluation Metrics for Paraphrase Generation. Proceedings of EMNLP 2022. [[code](https://github.com/shadowkiller33/ParaScore)]
 
 - Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu. Neural Machine Translation with Monolingual Translation Memory. Proceedings of ACL 2021. (Outstanding Paper Award) [[code](https://github.com/lemaoliu/copyisallyouneed-1)]
@@ -62,7 +88,7 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 - Lemao Liu, Taro Watanabe, Eiichiro Sumita, Tiejun Zhao. Additive Neural Networks for Statistical Machine Translation. In Proceedings of ACL 2013. [[paper](http://www.aclweb.org/anthology/P13-1078)]
 
 - Lemao Liu, Hailong Cao, Taro Watanabe, Tiejun Zhao, Mo Yu, Conghui Zhu. Locally Training the Log-linear Model for SMT. In Proceedings of EMNLP-CoNLL 2012. [[paper](http://www.aclweb.org/anthology/D12-1037)]
-
+--->
 
 ## Collaborators
 
