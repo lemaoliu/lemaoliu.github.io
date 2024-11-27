@@ -65,7 +65,8 @@ I have some intern positions available at NLP center, Tencent AI Lab. If you hav
 
 
 ### Retrieval Augmented Generation (RAG)
-- Huayang Li, Yixuan Su, Deng Cai, Yan Wang, and Lemao Liu. A survey on retrieval-augmented text generation. Preprints in 2021. (100+ citations in 2024)
+- Huayang Li, Yixuan Su, Deng Cai, Yan Wang, and Lemao Liu. A survey on retrieval-augmented text generation. Preprints in 2022. (100+ citations in 2024)
+- Deng Cai, Yan Wang, Lemao Liu and Shuming Shi. Recent Advances in retrieval-augmented text generation. Tutorials in IJCAI 2022 and SIGIR 2022.
 - Huayang Li, Deng Cai, Zhi Qu, Qu Cui, Hidetaka Kamigaito, Lemao Liu, Taro Watanabe. Cross-lingual Contextualized Phrase Retrieval. Proceedings of EMNLP 2024: Findings.
 - Xin Cheng, Di Luo, Xiuying Chen, Lemao Liu, Dongyan Zhao, Rui Yan. Lift Yourself Up: Retrieval-augmented Text Generation with Self Memory. Proceedings of NeurIPS 2023.
 - Hongkun Hao, Guoping Huang, Lemao Liu, Zhirui Zhang, Shuming Shi, Rui Wang. Rethinking Translation Memory Augmented Neural Machine Translation. Proceedings of ACL 2023: Findings.
@@ -105,26 +106,26 @@ It is my pleasure and great honor to work with the following excellent students.
 
 #### Past Interns/Students
 - Yubin Ruan (M.S. at HIT, 06/2021 - 02/2022, 1 NAACL)
-- Jiahao Xu (Phd student at NTU, 08/2021 - 02/2022, 1 NAACL + 2 EMNLP)
+- [Jiahao Xu](https://scholar.google.com/citations?user=FlsBVrIAAAAJ&hl=zh-CN) (Phd student at NTU, 08/2021 - 02/2022, 1 NAACL + 2 EMNLP)
 - Yanling Xiao (Co-advised with Guoping, master student at Nanjing Univ., 07/2020 - 02/2022, 1 ACL)
 - Yibin Liu (engineering intern, master student at Peking Shenzhen, 11/2020 - 02/2022, 1 EMNLP)
 - Qiuxiang He (Co-advised with Guoping, Southwest Univ., 07/2020 - 12/2021, 1 ACL)
-- Jiannan Xiang (master student at USTC, 05/2020 - 2021/09, now phd at UCSD;  3 ACL)
+- [Jiannan Xiang](https://szxiangjn.github.io/) (master student at USTC, 05/2020 - 2021/09, now phd at UCSD;  3 ACL)
 - Zexin Lu (Tencent Rhino-Bird Scholar, phd student at Poly HK, 05/2021 - 12/2021, 1 ACL)
 - [Guanlin Li](https://epsilon-lee.github.io/) (phd student at HIT, 12/2017 - 2021/02; now Researcher at JD, 2 ACL + 1 EMNLP + 1 NAACL + 2 TASLP)
 - Zhangming Chan (Tencent Rhino-Bird Scholar, master from Peking Univ., 05/2020 - 2021/01, 1 ACL)
-- [Jing Qian](https://jing-qian.github.io/) (phd student at UCSB, 06/2020 - 09/2020; now Researcher at Microsoft 1 EMNLP)
+- [Jing Qian](https://jing-qian.github.io/) (phd student at UCSB, 06/2020 - 09/2020; now Researcher at Microsoft, 1 EMNLP)
 - Honglin Han (engineering intern, undergraduate student at HIT, 04/2020 - 09/2020)
-- Jierui Li (undergraduate student at UESTC, now phd student at UT Austin, 11/2019 - 06/2020, 1 ACL)
+- [Jierui Li](https://lijierui.github.io/) (undergraduate student at UESTC, now phd student at UT Austin, 11/2019 - 06/2020, 1 ACL)
 - Runze Nie (engineering intern, graduate student at Univ. Melbourne, 12/2019 - 03/2020)
-- Tianxiang Zhao (Co-advised with Guoping, graduate student at USTC, 01/2019 - 06/2019; now phd student at PSU, 1 AAAI)
+- [Tianxiang Zhao](https://tianxiangzhao.github.io/) (Co-advised with Guoping, graduate student at USTC, 01/2019 - 06/2019; now phd student at PSU, 1 AAAI)
 - Qian Wang (Co-advised with Guoping, master student at IA CAS, 07/2018 - 12/2019, 1 AACL)
 - [Xintong Li](https://znculee.github.io/) (phd student at CUHK, 07/2017 - 05/2019; now senior researcher at Apple, 2 ACL + 2 NAACL + 1 TASLP)
 - [Mengzhou Xia](https://xiamengzhou.github.io/) (Co-advised with Guoping, undergraduate student at Fudan, 04/2018 - 08/2018; now phd student at Princeton, 1 AAAI)
-- Huayang Li (Co-adivsed with Guoping, undergraduate student at Central China Normal Univ., 07/2017 - 05/2018; now phd at NAIST, 1 TASLP)
+- [Huayang Li](https://sites.google.com/view/huayangli) (Co-adivsed with Guoping, undergraduate student at Central China Normal Univ., 07/2017 - 05/2018; now phd at NAIST, 1 TASLP + 1 NeurIPS + 1 ACL + 1 EMNLP)
 - Yu Liu (phd student at HIT, 04/2018 - 11/2018)
-- Lianhui Qin (graduate student at SHJT, 07/2017 - 09/2017; now Ass. Prof. at UCSD, 1 ACL) 
-- [Kehai Chen](https://chenkehai.github.io/) (phd student at HIT, 10/2017 - 03/2017; now Prof. at HIT, 2 EMNLP + 1 AAAI + 2 TASLP)
+- [Lianhui Qin](http://lianhui.ucsd.edu/) (graduate student at SHJT, 07/2017 - 09/2017; now Ass. Prof. at UCSD, 1 ACL) 
+- [Kehai Chen](https://chenkehai.github.io/) (phd student at HIT, 10/2017 - 03/2017; now Full Prof. at HIT, 2 EMNLP + 1 AAAI + 2 TASLP)
 - Chunpeng Ma (phd student at HIT, 10/2015 - 03/2016; Now researcher at Fujitsu., 1 AAAI) 
 
 
