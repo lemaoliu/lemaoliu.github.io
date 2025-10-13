@@ -3,7 +3,7 @@
 
 <img align="left" src="homepage_lemao.jpg" width=150 height=180 alt="a photo" style="padding-right:10px">
 
-I am currently an associate professor at [Fudan University](https://www.fudan.edu.cn/), working on large language models, natural language processing, machine translation and their related topics. I can be reached through NAME at EMAIL (NAME = lemaoliu, EMAI L= gmail.com | fudan.edu.cn).
+I am currently an associate professor at [Fudan University](https://www.fudan.edu.cn/), working on large language models, natural language processing, machine translation and their related topics. I can be reached through NAME at EMAIL (NAME = lemaoliu, EMAIL = gmail.com | fudan.edu.cn).
 <!---
 I am a member of [LAT group](lat.md) and you can reach me through NAME at gmail dot com (NAME=lemaoliu).
 --->
