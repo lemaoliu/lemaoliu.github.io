@@ -3,7 +3,7 @@
 
 <img align="left" src="homepage_lemao.jpg" width=150 height=180 alt="a photo" style="padding-right:10px">
 
-I am currently a principal researcher at Tencent, working on large language models, natural language processing, machine translation and their related topics. I can be reached through NAME at gmail dot com (NAME=lemaoliu).
+I am currently an associate professor at Fudan Univ., working on large language models, natural language processing, machine translation and their related topics. I can be reached through NAME at gmail dot com (NAME=lemaoliu).
 <!---
 I am a member of [LAT group](lat.md) and you can reach me through NAME at gmail dot com (NAME=lemaoliu).
 --->
@@ -11,7 +11,8 @@ I am a member of [LAT group](lat.md) and you can reach me through NAME at gmail 
 
 ## More about me
 
-I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near Poyang Lake, the largest freshwater lake in China. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions of Prof. [Tiejun Zhao](http://encs.hit.edu.cn/2016/0229/c5511a144140/page.htm) at HIT and Dr. [Taro Watanabe](https://sites.google.com/site/tarowtnb/) at NICT. After that, I was a postdoc researcher at the City University of New York, working with Prof. [Liang Huang](https://web.engr.oregonstate.edu/~huanlian/); and then I was a researcher at NICT Japan between Sept. 2014 and March 2017. 
+I am from Yugan in Jiangxi Provice, which is a small yet beautiful county near Poyang Lake, the largest freshwater lake in China. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions of Prof. [Tiejun Zhao](http://encs.hit.edu.cn/2016/0229/c5511a144140/page.htm) at HIT and Dr. [Taro Watanabe](https://sites.google.com/site/tarowtnb/) at NICT. After that, I was a postdoc researcher at the City University of New York, working with Prof. [Liang Huang](https://web.engr.oregonstate.edu/~huanlian/); I was a researcher at NICT Japan between Sept. 2014 and March 2017; and
+I was a senior and principal researcher at Tencent working with [Guoping Huang](https://scholar.google.com/citations?user=xSkkA7UAAAAJ&hl=en) and [Shuming Shi](https://scholar.google.com/citations?user=Lg31AKMAAAAJ&hl=en) between April 2017 and Sept. 2025. 
 
 ## News
 - 05/2024: Six papers accepted by ACL 2024. 
