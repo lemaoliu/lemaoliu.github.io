@@ -1,7 +1,7 @@
 # Welcome to Lemao's Homepage
 
 
-<img align="left" src="homepage_lemao.jpg" width=100 height=130 alt="a photo" style="padding-right:10px">
+<img align="left" src="homepage_lemao.jpg" width=130 height=130 alt="a photo" style="padding-right:10px">
 
 I am currently an associate professor at [Fudan University](https://www.fudan.edu.cn/), working with Prof. [Dejing Dou](http://ix.cs.uoregon.edu/~dou/index.html). My research interests include large language models, vision language model, natural language processing, machine translation and their related topics. I can be reached through NAME at EMAIL (NAME = lemaoliu, EMAIL = gmail.com | fudan.edu.cn).
 <!---
