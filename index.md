@@ -63,7 +63,7 @@ We have some intern positions available at NLP center, Tencent AI Lab. If you ha
 ### Recent Research Related to LLM and RAG
 
 #### Large Language Models (LLM)
-- Yue Zhang, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, Tingchen Fu, Xinting Huang, Enbo Zhao, Yu Zhang, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi. Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models. Preprints in 2023. (700+ citations)
+- Yue Zhang, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, Tingchen Fu, Xinting Huang, Enbo Zhao, Yu Zhang, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi. Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models. In Computational Linguistics. 2023. (1000+ citations)
 - Guoxin Yu, Lemao Liu, Mo Yu, Yue Yu, Xiang Ao. Rethinking the Evaluation of In-Context Learning for LLMs. Proceedings of EMNLP 2024.
 - Tsz Ting Chung, Leyang Cui, Lemao Liu, Xinting Huang, Shuming Shi, Dit-Yan Yeung. Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability. Proceedings of EMNLP 2024: Findings.
 - Tingchen Fu, Lemao Liu, Deng Cai, Guoping Huang, Shuming Shi, Rui Yan. The Reasonableness Behind Unreasonable Translation Capability of Large Language Model. Proceedings of ICLR 2024.
