@@ -8,6 +8,13 @@ I am currently an associate professor at [Fudan University](https://www.fudan.ed
 I am a member of [LAT group](lat.md) and you can reach me through NAME at gmail dot com (NAME=lemaoliu).
 --->
 
+## Opening Positions
+
+We have some Ph.D openings for 2026 at Fudan. If you have any interests, welcome to drop me an email.
+<!---
+We have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
+--->
+
 
 ## More about me
 
@@ -33,12 +40,7 @@ I was a principal researcher at Tencent working with [Guoping Huang](https://sch
 - 02/2020: One paper accepted by JAIR.
 
 
-## Opening Positions
 
-We have some Ph.D openings for 2026 at Fudan. If you have any interests, welcome to drop me an email.
-<!---
-We have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
---->
 
 
 ## Professional Activities
