@@ -3,7 +3,7 @@
 
 <img align="left" src="homepage_lemao.jpg" width=150 height=180 alt="a photo" style="padding-right:10px">
 
-I am currently an associate professor at [Fudan University](https://www.fudan.edu.cn/), working on large language models, natural language processing, machine translation and their related topics. I can be reached through NAME at EMAIL (NAME = lemaoliu, EMAIL = gmail.com | fudan.edu.cn).
+I am currently an associate professor at [Fudan University](https://www.fudan.edu.cn/), working with Prof. [Dejing Dou](http://ix.cs.uoregon.edu/~dou/index.html). My research interests include large language models, vision language model, natural language processing, machine translation and their related topics. I can be reached through NAME at EMAIL (NAME = lemaoliu, EMAIL = gmail.com | fudan.edu.cn).
 <!---
 I am a member of [LAT group](lat.md) and you can reach me through NAME at gmail dot com (NAME=lemaoliu).
 --->
@@ -32,9 +32,12 @@ I was a principal researcher at Tencent working with [Guoping Huang](https://sch
 - 04/2020: Two papers accepted by ACL 2020.
 - 02/2020: One paper accepted by JAIR.
 
-<!---
+
 ## Opening Positions
-I have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
+
+We have some Ph.D openings for 2026 at Fudan. If you have any interests, welcome to drop me an email.
+<!---
+We have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
 --->
 
 
