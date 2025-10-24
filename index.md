@@ -3,7 +3,7 @@
 
 <img align="left" src="homepage_lemao.jpg" width=110 height=130 alt="a photo" style="padding-right:10px">
 
-I am currently an associate professor at [Fudan University](https://www.fudan.edu.cn/), working with Prof. [Dejing Dou](http://ix.cs.uoregon.edu/~dou/index.html). My research interests include large language models, vision language model, natural language processing, machine translation and their related topics. I can be reached through NAME at EMAIL (NAME = lemaoliu, EMAIL = gmail.com | fudan.edu.cn).
+I am currently an associate professor at [Fudan University](https://www.fudan.edu.cn/). My research interests include large language models, vision language model, natural language processing, machine translation and their related topics. I can be reached through NAME at EMAIL (NAME = lemaoliu, EMAIL = gmail.com | fudan.edu.cn).
 <!---
 I am a member of [LAT group](lat.md) and you can reach me through NAME at gmail dot com (NAME=lemaoliu).
 --->
@@ -15,7 +15,7 @@ I am a member of [LAT group](lat.md) and you can reach me through NAME at gmail 
 
 I am from [Yugan](https://zh.wikipedia.org/zh-cn/%E4%BD%99%E5%B9%B2%E5%8E%BF) in Jiangxi Provice, which is a small yet beautiful county near Poyang Lake, the largest freshwater lake in China. 
 I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Oct. 2013, under the instructions of Prof. [Tiejun Zhao](http://encs.hit.edu.cn/2016/0229/c5511a144140/page.htm) at HIT and Dr. [Taro Watanabe](https://sites.google.com/site/tarowtnb/) at NICT. After that, I was a postdoc researcher at the City University of New York, working with Prof. [Liang Huang](https://web.engr.oregonstate.edu/~huanlian/); I was a researcher at NICT Japan working with [Masao Utiyama](https://www2.nict.go.jp/astrec-att/member/mutiyama/) between Sept. 2014 and March 2017; and
-I was a principal researcher at Tencent working with [Guoping Huang](https://scholar.google.com/citations?user=xSkkA7UAAAAJ&hl=en) and [Shuming Shi](https://scholar.google.com/citations?user=Lg31AKMAAAAJ&hl=en) until Oct. 2025. 
+I was a principal researcher at Tencent working with [Guoping Huang](https://scholar.google.com/citations?user=xSkkA7UAAAAJ&hl=en) and [Shuming Shi](https://scholar.google.com/citations?user=Lg31AKMAAAAJ&hl=en) until Oct. 2025. Now I am a memebr of [Data Intelligence Lab](https://dil.fudan.edu.cn/) @ Fudan, led by Prof. [Dejing Dou](http://ix.cs.uoregon.edu/~dou/index.html).
 
 
 ## Opening Positions
