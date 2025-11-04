@@ -20,7 +20,7 @@ I was a principal researcher at Tencent working with [Guoping Huang](https://sch
 
 ## Opening Positions
 
-- 10/2025: We have some Ph.D openings for 2026 at Fudan. If you have any interests, welcome to drop me an email.
+- 10/2025: We have some openings (Ph.D., Master, or RA) for 2026 at Fudan. If you have any interests, welcome to drop me an email.
   
 <!---
 We have some intern positions available at NLP center, Tencent AI Lab. If you have any interests, welcome to drop me an email. 
